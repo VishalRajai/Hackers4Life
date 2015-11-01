@@ -1,0 +1,1995 @@
+a:2:{s:6:"expire";d:1440205318;s:7:"headers";a:6:{i:0;a:2:{i:0;s:15:"HTTP/1.0 200 OK";i:1;b:1;}i:1;a:2:{i:0;s:15:"HTTP/1.1 200 OK";i:1;b:1;}i:2;a:2:{i:0;s:44:"Last-Modified: Sat, 22 Aug 2015 01:01:27 GMT";i:1;b:1;}i:3;a:2:{i:0;s:50:"Cache-Control: no-store, no-cache, must-revalidate";i:1;b:1;}i:4;a:2:{i:0;s:40:"Cache-Control: post-check=0, pre-check=0";i:1;b:1;}i:5;a:2:{i:0;s:16:"Pragma: no-cache";i:1;b:1;}}}ENDCI---><!DOCTYPE html>
+<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->  
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->  
+<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->  
+<head>
+    <title>Home | Shop</title>
+	
+    <!-- Meta -->
+    <meta charset="UTF-8">
+    <meta name="description" content=" ?>">
+    <meta name="keywords" content="">
+    <meta name="author" content="ActiveItZone">
+    <meta name="revisit-after" content="2 days">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="expires" content="Mon, 10 Dec 2001 00:00:00 GMT" />
+    <style>
+		html, body{
+			overflow: hidden;
+			height: 100%;
+		}
+	</style>
+    
+        
+    <!-- Favicon -->
+        <link rel="shortcut icon" href="http://localhost/active_supershop_v12_install/uploads/others/favicon.png">
+    <link href="http://localhost/active_supershop_v12_install/template/minify/styles.min.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="http://localhost/active_supershop_v12_install/template/front/assets/plugins/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://localhost/active_supershop_v12_install/template/front/assets/css/pages/log-reg-v3.css">
+    <link rel="stylesheet" href="http://localhost/active_supershop_v12_install/template/front/assets/plugins/ionrangeslider/css/ion.rangeSlider.skinModern.css">
+    <link rel="stylesheet" href="http://localhost/active_supershop_v12_install/template/front/assets/css/shop.style.css">
+    <link rel="stylesheet" href="http://localhost/active_supershop_v12_install/template/front/assets/plugins/sky-forms/version-2.0.1/css/custom-sky-forms.css">
+    
+
+    <script type="text/javascript" src="http://localhost/active_supershop_v12_install/template/minify/top_home_scripts.min.js"></script>
+
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,700,900' rel='stylesheet' type='text/css'>
+	<link href="http://fonts.googleapis.com/css?family=Oswald:300,400,700" rel="stylesheet" type="text/css">
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,300,400italic,400,600italic,600,700italic,700,800italic,800" rel="stylesheet" type="text/css">
+	<link href='http://fonts.googleapis.com/css?family=Indie+Flower' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700,300' rel='stylesheet' type='text/css'>
+
+</head>
+<div id="preloader">
+	<center>
+<style>#circularG {
+	position:relative;
+	width:100px;
+	height:100px
+}
+.circularG {
+	position:absolute;
+	background-color:#470467;
+	width:23px;
+	height:23px;
+	-moz-border-radius:15px !important;
+	-moz-animation-name:bounce_circularG;
+	-moz-animation-duration:1.2s;
+	-moz-animation-iteration-count:infinite;
+	-moz-animation-direction:normal;
+	-webkit-border-radius:15px !important;
+	-webkit-animation-name:bounce_circularG;
+	-webkit-animation-duration:1.2s;
+	-webkit-animation-iteration-count:infinite;
+	-webkit-animation-direction:normal;
+	-ms-border-radius:15px !important;
+	-ms-animation-name:bounce_circularG;
+	-ms-animation-duration:1.2s;
+	-ms-animation-iteration-count:infinite;
+	-ms-animation-direction:normal;
+	-o-border-radius:15px !important;
+	-o-animation-name:bounce_circularG;
+	-o-animation-duration:1.2s;
+	-o-animation-iteration-count:infinite;
+	-o-animation-direction:normal;
+	border-radius:15px !important;
+	animation-name:bounce_circularG;
+	animation-duration:1.2s;
+	animation-iteration-count:infinite;
+	animation-direction:normal;
+}
+#circularG_1 {
+	left:0;
+	top:39px;
+	-moz-animation-delay:0.45s;
+	-webkit-animation-delay:0.45s;
+	-ms-animation-delay:0.45s;
+	-o-animation-delay:0.45s;
+	animation-delay:0.45s;
+}
+#circularG_2 {
+	left:11px;
+	top:11px;
+	-moz-animation-delay:0.6s;
+	-webkit-animation-delay:0.6s;
+	-ms-animation-delay:0.6s;
+	-o-animation-delay:0.6s;
+	animation-delay:0.6s;
+}
+#circularG_3 {
+	top:0;
+	left:39px;
+	-moz-animation-delay:0.75s;
+	-webkit-animation-delay:0.75s;
+	-ms-animation-delay:0.75s;
+	-o-animation-delay:0.75s;
+	animation-delay:0.75s;
+}
+#circularG_4 {
+	right:11px;
+	top:11px;
+	-moz-animation-delay:0.9s;
+	-webkit-animation-delay:0.9s;
+	-ms-animation-delay:0.9s;
+	-o-animation-delay:0.9s;
+	animation-delay:0.9s;
+}
+#circularG_5 {
+	right:0;
+	top:39px;
+	-moz-animation-delay:1.05s;
+	-webkit-animation-delay:1.05s;
+	-ms-animation-delay:1.05s;
+	-o-animation-delay:1.05s;
+	animation-delay:1.05s;
+}
+#circularG_6 {
+	right:11px;
+	bottom:11px;
+	-moz-animation-delay:1.2s;
+	-webkit-animation-delay:1.2s;
+	-ms-animation-delay:1.2s;
+	-o-animation-delay:1.2s;
+	animation-delay:1.2s;
+}
+#circularG_7 {
+	left:39px;
+	bottom:0;
+	-moz-animation-delay:1.35s;
+	-webkit-animation-delay:1.35s;
+	-ms-animation-delay:1.35s;
+	-o-animation-delay:1.35s;
+	animation-delay:1.35s;
+}
+#circularG_8 {
+	left:11px;
+	bottom:11px;
+	-moz-animation-delay:1.5s;
+	-webkit-animation-delay:1.5s;
+	-ms-animation-delay:1.5s;
+	-o-animation-delay:1.5s;
+	animation-delay:1.5s;
+}
+@-moz-keyframes bounce_circularG {
+	0% {
+		-moz-transform:scale(1)
+	}
+	100% {
+		-moz-transform:scale(.3)
+	}
+}
+@-webkit-keyframes bounce_circularG {
+	0% {
+		-webkit-transform:scale(1)
+	}
+	100% {
+		-webkit-transform:scale(.3)
+	}
+}
+@-ms-keyframes bounce_circularG {
+	0% {
+		-ms-transform:scale(1)
+	}
+	100% {
+		-ms-transform:scale(.3)
+	}
+}
+@-o-keyframes bounce_circularG {
+	0% {
+		-o-transform:scale(1)
+	}
+	100% {
+		-o-transform:scale(.3)
+	}
+}
+@keyframes bounce_circularG {
+	0% {
+		transform:scale(1)
+	}
+	100% {
+		transform:scale(.3)
+	}
+}
+</style>
+
+<div id="circularG" style="margin-top:20% !important;">
+	<div id="circularG_1" class="circularG">
+	</div>
+	<div id="circularG_2" class="circularG">
+	</div>
+	<div id="circularG_3" class="circularG">
+	</div>
+	<div id="circularG_4" class="circularG">
+	</div>
+	<div id="circularG_5" class="circularG">
+	</div>
+	<div id="circularG_6" class="circularG">
+	</div>
+	<div id="circularG_7" class="circularG">
+	</div>
+	<div id="circularG_8" class="circularG">
+	</div>
+</div>
+</center>
+</div>
+
+<style>
+#preloader {
+		height:100%;
+		width:100%;
+		background-color:white;
+		position:fixed;
+		top:0px;
+		left:0px;
+		overflow:hidden;
+		z-index: 9999999;
+}
+</style><body class="header-fixed">
+<div class="wrapper">
+    <div class="header-purple header-sticky header-fixed">
+        <div class="topbar-v3">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <!-- Topbar Navigation -->
+                        <ul class="left-topbar">
+                            <li>
+                            	                                <a>Language (english)</a>
+                                <ul class="language">
+                                	                                    	<li class="active" >
+                                        	<a href="http://localhost/active_supershop_v12_install/index.php/home/set_language/english">
+												english 
+												                                                	<i class="fa fa-check"></i>
+												                                            </a>
+                                        </li>
+                                                                        	<li  >
+                                        	<a href="http://localhost/active_supershop_v12_install/index.php/home/set_language/Bangla">
+												Bangla 
+												                                            </a>
+                                        </li>
+                                                                        	<li  >
+                                        	<a href="http://localhost/active_supershop_v12_install/index.php/home/set_language/Spanish">
+												Spanish 
+												                                            </a>
+                                        </li>
+                                                                        	<li  >
+                                        	<a href="http://localhost/active_supershop_v12_install/index.php/home/set_language/Arabic">
+												Arabic 
+												                                            </a>
+                                        </li>
+                                                                        	<li  >
+                                        	<a href="http://localhost/active_supershop_v12_install/index.php/home/set_language/French">
+												French 
+												                                            </a>
+                                        </li>
+                                                                        	<li  >
+                                        	<a href="http://localhost/active_supershop_v12_install/index.php/home/set_language/Chinese">
+												Chinese 
+												                                            </a>
+                                        </li>
+                                                                    </ul>
+                            </li>   
+                        </ul><!--/end left-topbar-->
+                    </div>
+                    <div class="col-sm-6">
+                        <ul class="list-inline right-topbar pull-right" id="loginsets">
+                        </ul>
+                    </div>
+                </div>
+            </div><!--/container-->
+                
+        </div>
+        <!-- End Topbar v3 -->
+
+        <!-- Navbar -->
+        <div class="navbar navbar-default mega-menu" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+                        <span class="sr-only">Toggle Navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="http://localhost/active_supershop_v12_install/index.php/home/">
+                        <img id="logo-header" src="http://localhost/active_supershop_v12_install/uploads/logo_image/logo_16.png" alt="Logo" class="img-responsive" style="width:350px;">
+                    </a>
+                </div>
+                
+                    <ul class="list-inline shop-badge badge-lists badge-icons pull-right" id="added_list">
+                    </ul>
+                <div class="collapse navbar-collapse navbar-responsive-collapse">
+                    <!-- Badge -->
+                    <!-- End Badge -->
+                    <ul class="nav navbar-nav">
+                        <!-- Home -->
+                        <li>
+                            <a href="http://localhost/active_supershop_v12_install/index.php/home/" class="dropdown-toggle" >
+                                Home                            </a>
+                        </li>
+                        <!-- End Home -->
+                        
+                        <!-- Books -->
+                        <li class="dropdown mega-menu-fullwidth">
+                            <a href="javascript:void(0);" class="dropdown-toggle" data-hover="dropdown" data-toggle="dropdown">
+                                Our Products                            </a>
+                            <ul class="dropdown-menu ">
+                                <li>
+                                    <div class="mega-menu-content">
+                                        <div class="container">
+                                            <div class="row equal-height mega-menu">
+                                            	                                                 <div class="col-md-2 col-sm-12 equal-height-in">
+                                                    <h3 class="mega-menu-heading">
+                                                    	<a href="http://localhost/active_supershop_v12_install/index.php/home/category/1/">
+                                                    		Demo Category 1                                                        </a>
+                                                    </h3>
+                                                    <ul class="list-unstyled equal-height-list">
+                                                    	                                                        	<li>
+                                                            	<a href="http://localhost/active_supershop_v12_install/index.php/home/category/1/1/">
+                                                                	Demo Sub-category 1                                                                </a>
+                                                            </li>
+														                                                        	<li>
+                                                            	<a href="http://localhost/active_supershop_v12_install/index.php/home/category/1/2/">
+                                                                	Demo Sub-category 2                                                                </a>
+                                                            </li>
+														                                                    </ul>
+                                                </div>
+                                                                                                 <div class="col-md-2 col-sm-12 equal-height-in">
+                                                    <h3 class="mega-menu-heading">
+                                                    	<a href="http://localhost/active_supershop_v12_install/index.php/home/category/2/">
+                                                    		Demo Category 2                                                        </a>
+                                                    </h3>
+                                                    <ul class="list-unstyled equal-height-list">
+                                                    	                                                        	<li>
+                                                            	<a href="http://localhost/active_supershop_v12_install/index.php/home/category/2/3/">
+                                                                	Demo Sub-category 3                                                                </a>
+                                                            </li>
+														                                                        	<li>
+                                                            	<a href="http://localhost/active_supershop_v12_install/index.php/home/category/2/4/">
+                                                                	Demo Sub-category 4                                                                </a>
+                                                            </li>
+														                                                    </ul>
+                                                </div>
+                                                                                            </div><!--/end row-->
+                                        </div><!--/end container-->
+                                    </div><!--/end mega menu content-->  
+                                </li>
+                            </ul><!--/end dropdown-menu-->
+                        </li>
+                        <!-- End Header -->
+                        
+
+
+                        <!-- Featured -->
+                        <li class="dropdown mega-menu-fullwidth">
+                            <a href="javascript:void(0);" class="dropdown-toggle" data-hover="dropdown" 
+                            	data-toggle="dropdown">
+                                	Featured Product                            </a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <div class="mega-menu-content">
+                                        <div class="container">
+                                            <div class="row">
+                                                
+                                                                                                <div class="col-md-3 md-margin-bottom-30">
+                                                    <div class="overflow-h">
+                                                        <a href="http://localhost/active_supershop_v12_install/index.php/home/product_view/4/Demo-Product-4">
+                                                            <div class="illustration-v1 illustration-img1">
+                                                                <div class="illustration-bg" style="background:url('http://localhost/active_supershop_v12_install/uploads/product_image/product_4_1.jpg') no-repeat center center; background-size: 100% auto;">
+                                                                    <div class="illustration-ads ad-details-v1" >
+                                                                            <h4 style="background:rgba(205, 168, 168, 0.6); text-decoration:none; padding:3px; color:#fff;">Demo Product 4</h4>
+                                                                    </div>    
+                                                                </div>    
+                                                            </div>
+                                                        </a>
+                                                    </div>    
+                                                </div> 
+                                                                                                <div class="col-md-3 md-margin-bottom-30">
+                                                    <div class="overflow-h">
+                                                        <a href="http://localhost/active_supershop_v12_install/index.php/home/product_view/3/Demo-Product-3">
+                                                            <div class="illustration-v1 illustration-img1">
+                                                                <div class="illustration-bg" style="background:url('http://localhost/active_supershop_v12_install/uploads/product_image/product_3_1.jpg') no-repeat center center; background-size: 100% auto;">
+                                                                    <div class="illustration-ads ad-details-v1" >
+                                                                            <h4 style="background:rgba(205, 168, 168, 0.6); text-decoration:none; padding:3px; color:#fff;">Demo Product 3</h4>
+                                                                    </div>    
+                                                                </div>    
+                                                            </div>
+                                                        </a>
+                                                    </div>    
+                                                </div> 
+                                                                                                <div class="col-md-3 md-margin-bottom-30">
+                                                    <div class="overflow-h">
+                                                        <a href="http://localhost/active_supershop_v12_install/index.php/home/product_view/2/Demo-Product-2">
+                                                            <div class="illustration-v1 illustration-img1">
+                                                                <div class="illustration-bg" style="background:url('http://localhost/active_supershop_v12_install/uploads/product_image/product_2_1.jpg') no-repeat center center; background-size: 100% auto;">
+                                                                    <div class="illustration-ads ad-details-v1" >
+                                                                            <h4 style="background:rgba(205, 168, 168, 0.6); text-decoration:none; padding:3px; color:#fff;">Demo Product 2</h4>
+                                                                    </div>    
+                                                                </div>    
+                                                            </div>
+                                                        </a>
+                                                    </div>    
+                                                </div> 
+                                                                                                <div class="col-md-3 md-margin-bottom-30">
+                                                    <div class="overflow-h">
+                                                        <a href="http://localhost/active_supershop_v12_install/index.php/home/featured_item">
+                                                            <div class="illustration-v1 illustration-img1">
+                                                                <div class="illustration-bg">
+                                                                    <div class="illustration-ads ad-details-v1" >
+                                                                            <div class="btn-u btn-u-sea">See More <i class="fa fa-arrow-circle-right"></i></div>
+                                                                    </div>    
+                                                                </div>    
+                                                            </div>
+                                                        </a>
+                                                    </div>    
+                                                </div>
+                                            </div><!--/end row-->
+                                        </div><!--/end container-->
+                                    </div><!--/end mega menu content-->  
+                                </li>
+                            </ul><!--/end dropdown-menu-->
+                        </li>
+                        <!-- End Featured -->
+
+                        <!-- Home -->
+                        <li class="dropdown">
+                            <a href="http://localhost/active_supershop_v12_install/index.php/home/contact/" class="dropdown-toggle" >
+                                Contact                            </a>
+                        </li>
+                        <!-- End Home -->
+						                    </ul>
+                </div><!--/navbar-collapse-->
+            </div>    
+        </div>            
+        <!-- End Navbar -->
+    </div>
+    <!--=== End Header style1 ===-->
+<!--[if lt IE 9]>
+<script
+ src="http://localhost/active_supershop_v12_install/template/front/layerslider/assets/js/html5.js"></script>
+<![endif]-->
+
+<!-- LayerSlider stylesheet -->
+<link rel="stylesheet" href="http://localhost/active_supershop_v12_install/template/front/layerslider/css/layerslider.css" type="text/css">
+<script type="text/javascript" src="http://localhost/active_supershop_v12_install/template/minify/slider_scripts.min.js"></script>
+<style>
+
+	#layerslider * {
+		font-family: Lato, 'Open Sans', sans-serif;
+	}
+
+</style>
+</head>
+<body class="nobg">
+	<div id="full-slider-wrapper">
+		<div id="layerslider" style="width:100%;height:500px;">
+
+					
+            <div class="ls-slide" data-ls="slidedelay:4500;transition2d:24,25,27,28,34,35,37,38,110,113;" >
+                <!--BACKGROUND-->
+									<img src="http://localhost/active_supershop_v12_install/uploads/slider_image/background_1.jpg" class="ls-bg" alt="Slide background"/>	
+				                
+                                    <img class="ls-l" src="http://localhost/active_supershop_v12_install/uploads/slider_image/1_ase.png"   style="top:20px;left:50%;width:220px;white-space: nowrap;" data-ls="offsetxin:0;offsetyin:top;durationin:4600;easingin:easeOutQuad;fadein:false;rotatein:-10;offsetxout:0;durationout:1500;" >
+                                                    <h5 class="ls-l" style="top:260px; left:50%; text-align: center; font-weight: 300;width:300px;height:60px;font-size:30px;line-height:60px;border-radius:5px;white-space: nowrap; color:rgba(255,255,255,1); background:rgba(196,4,189,1)" data-ls="offsetxin:0;scalexin:0;scaleyin:0;offsetxout:0;offsetyout:top;durationout:750;durationin:1000;fadeout:false;" >
+                        WELCOME TO                    </h5>
+                                    <h5 class="ls-l" style="top:340px;left:50%;text-align: center;font-weight: 300; width:500px; height:100px; font-size:40px; line-height:100px; border-radius:5px; white-space: nowrap; color:rgba(255,255,255,1); background:rgba(141,0,176,1)" data-ls="offsetxin:0;scalexin:0;scaleyin:0;offsetxout:0;offsetyout:bottom;durationin:1000;durationout:750;fadeout:false;" >
+                        YOUR SHOP NAME                    </h5>
+                				<!--LEFT RIGHT WING-->
+				<img class="ls-l ls-linkto-2" style="top:460px;left:48%;white-space: nowrap;" data-ls="offsetxin:-50;delayin:1000;rotatein:-40;offsetxout:-50;rotateout:-40;"
+					 src="http://localhost/active_supershop_v12_install/uploads/slider_image/defaults/left.png" alt="">
+				<img class="ls-l ls-linkto-2" style="top:460px;left:52%;white-space: nowrap;" data-ls="offsetxin:50;delayin:1000;offsetxout:50;"
+					 src="http://localhost/active_supershop_v12_install/uploads/slider_image/defaults/right.png" alt="">
+			</div>
+					
+            <div class="ls-slide" data-ls="slidedelay:6500;transition2d:all;transition3d:15;" >
+                <!--BACKGROUND-->
+									<img src="http://localhost/active_supershop_v12_install/uploads/slider_image/background_2.jpg" class="ls-bg" alt="Slide background"/>	
+				                
+                                                    <h1 class="ls-l" style="top:30%;left:50%;text-shadow: 0px 0px 20px white;font-weight: 300;font-size:50px; color:rgba(255,255,255,1); background:rgba(0,0,0,0)" data-ls="offsetxin:0;durationin:2500;offsetxout:0;durationout:2500;showuntil:1;" >
+                        WELCOME                    </h1>
+                                    <h1 class="ls-l" style="top:50%;left:50%;text-shadow: 0px 0px 20px white;font-weight: 300;font-size:100px;white-space: nowrap; color:rgba(255,255,255,1); background:rgba(0,0,0,0)" data-ls="offsetxin:0;durationin:2500;delayin:500;offsetxout:0;durationout:2500;showuntil:1;" >
+                        YOUR SHOP NAME                    </h1>
+                                    <h1 class="ls-l" style="top:70%;left:50%;text-shadow: 0px 0px 20px white;font-weight: 300;font-size:40px;white-space: nowrap; color:rgba(255,255,255,1); background:rgba(0,0,0,0)" data-ls="offsetxin:0;durationin:2500;delayin:1200;offsetxout:0;durationout:2500;showuntil:1;" >
+                        SHOP TITLE                    </h1>
+                				<!--LEFT RIGHT WING-->
+				<img class="ls-l ls-linkto-1" style="top:460px;left:48%;white-space: nowrap;" data-ls="offsetxin:-50;delayin:1000;rotatein:-40;offsetxout:-50;rotateout:-40;"
+					 src="http://localhost/active_supershop_v12_install/uploads/slider_image/defaults/left.png" alt="">
+				<img class="ls-l ls-linkto-1" style="top:460px;left:52%;white-space: nowrap;" data-ls="offsetxin:50;delayin:1000;offsetxout:50;"
+					 src="http://localhost/active_supershop_v12_install/uploads/slider_image/defaults/right.png" alt="">
+			</div>
+				</div>
+	</div>
+
+
+	<!-- Initializing the slider -->
+	<script>
+		function start_slider(){
+			jQuery("#layerslider").layerSlider({
+				responsive: true,
+				responsiveUnder: 1280,
+				layersContainer: 1280,
+				skin: 'noskin',
+				hoverPrevNext: false,
+				skinsPath: 'http://localhost/active_supershop_v12_install/template/front/layerslider/skins/'
+			});
+		}
+	</script>
+</body>
+<!--=== home banner ===-->
+<div class="container margin-bottom-20 margin-top-20">
+	        <a href="" >
+            <div class="col-md-3 md-margin-bottom-30">
+                <div class="overflow-h">
+                    <div class="illustration-v1 illustration-img1">
+                        <div class="illustration-bg banner_4" 
+                            style="background:url('http://localhost/active_supershop_v12_install/uploads/banner_image/banner_1.jpg') no-repeat center center; background-size: 100% auto;" >
+                        </div>    
+                    </div>
+                </div>    
+            </div>
+        </a>
+            <a href="" >
+            <div class="col-md-3 md-margin-bottom-30">
+                <div class="overflow-h">
+                    <div class="illustration-v1 illustration-img1">
+                        <div class="illustration-bg banner_4" 
+                            style="background:url('http://localhost/active_supershop_v12_install/uploads/banner_image/banner_2.jpg') no-repeat center center; background-size: 100% auto;" >
+                        </div>    
+                    </div>
+                </div>    
+            </div>
+        </a>
+            <a href="" >
+            <div class="col-md-3 md-margin-bottom-30">
+                <div class="overflow-h">
+                    <div class="illustration-v1 illustration-img1">
+                        <div class="illustration-bg banner_4" 
+                            style="background:url('http://localhost/active_supershop_v12_install/uploads/banner_image/banner_3.jpg') no-repeat center center; background-size: 100% auto;" >
+                        </div>    
+                    </div>
+                </div>    
+            </div>
+        </a>
+            <a href="" >
+            <div class="col-md-3 md-margin-bottom-30">
+                <div class="overflow-h">
+                    <div class="illustration-v1 illustration-img1">
+                        <div class="illustration-bg banner_4" 
+                            style="background:url('http://localhost/active_supershop_v12_install/uploads/banner_image/banner_4.jpg') no-repeat center center; background-size: 100% auto;" >
+                        </div>    
+                    </div>
+                </div>    
+            </div>
+        </a>
+    </div>
+<!--=== home banner ===-->
+
+
+<!--=== Sponsors  ===-->
+<div class="container content job-partners">
+    <div class="heading margin-bottom-20">
+        <h2>Our Vendors</h2>
+    </div>
+
+    <ul class="list-inline owl-sponsor our-clients" id="effect-2">
+                    <li class="item first-child">
+                <a href="http://localhost/active_supershop_v12_install/index.php/home/vendor/1/Vendor-Shop">
+                <figure>
+                	                    <img src="http://localhost/active_supershop_v12_install/uploads/vendor/logo_1.png" alt="">  
+                                        <div class="img-hover">
+                        <h4>Vendor Shop</h4>
+                    </div>
+                </figure>
+                </a>
+            </li>
+            </ul><!--/end owl-carousel-->
+</div>
+<!--=== Category wise products ===-->
+<div class="container" style="margin-bottom: -40px;">
+    <div class="heading heading-v1 margin-bottom-20">
+        <h2>Featured Product</h2>
+        <p></p>
+    </div>
+    
+    <div class="illustration-v2 margin-bottom-60">
+        <ul class="list-inline owl-slider-v2">
+                    <li class="item custom_item">
+                <div class="product-img">
+                    <a href="http://localhost/active_supershop_v12_install/index.php/home/product_view/4/Demo-Product-4">
+                        <div class="shadow" 
+                            style="background: url('http://localhost/active_supershop_v12_install/uploads/product_image/product_4_1_thumb.jpg') no-repeat center center; 
+                                background-size: 100% auto;">
+                        </div>
+                    </a>
+                    
+                    <a class="add-to-cart add_to_cart" data-type='text' data-pid='4' >
+                        <i class="fa fa-shopping-cart"></i>
+                                                    Add To Cart                                            </a>
+                                            <div class="shop-bg-green rgba-banner" style="border-top-right-radius: 4px !important;" >
+                            5.00%                             Off                        </div>
+                                    </div>
+                <div class="product-description product-description-brd">
+                    <div class="overflow-h margin-bottom-5">
+                        <div class="col-md-9 pull-left" style="padding:0px;">
+                            <h4 class="title-price"><a href="http://localhost/active_supershop_v12_install/index.php/home/product_view/4/Demo-Product-4">Demo Product 4</a></h4>
+                            <span class="gender text-uppercase">Demo Category 2</span>
+                            <span class="gender">Demo Sub-category 4</span>
+                                                        <span class="gender">
+                                Vendor : <a href="http://localhost/active_supershop_v12_install/">Shop</a>                            </span>
+                                                    </div>    
+                        <div class="col-md-3 product-price" style="padding:0px;">
+                                                            <span class="title-price">$95.00</span>
+                                <span class="title-price line-through">$100.00</span>
+                                                    </div>
+                    </div>
+                    <ul class="list-inline product-ratings col-md-5 col-sm-5 col-xs-5 tooltips"
+                        data-original-title="0"	
+                            data-toggle="tooltip" data-placement="right" >
+                                                <li>
+                            <i class="rating fa fa-star"></i>
+                        </li>
+                                                <li>
+                            <i class="rating fa fa-star"></i>
+                        </li>
+                                                <li>
+                            <i class="rating fa fa-star"></i>
+                        </li>
+                                                <li>
+                            <i class="rating fa fa-star"></i>
+                        </li>
+                                                <li>
+                            <i class="rating fa fa-star"></i>
+                        </li>
+                                            </ul>
+                    <div class="col-md-6 col-sm-6 col-xs-6"></div>
+                                        
+                    <ul class="list-inline product-ratings col-md-1 col-sm-1 col-xs-1 tooltips"
+                         data-original-title="Add To Wishlist" 
+                            data-toggle="tooltip" data-placement="left" >
+                        <li class="like-icon">
+                            <span data-pid='4'
+                                class="wish_it">
+                                <i class="fa fa-heart"></i>
+                            </span>
+                        </li>
+                    </ul>    
+                </div>
+            </li>   
+                    <li class="item custom_item">
+                <div class="product-img">
+                    <a href="http://localhost/active_supershop_v12_install/index.php/home/product_view/3/Demo-Product-3">
+                        <div class="shadow" 
+                            style="background: url('http://localhost/active_supershop_v12_install/uploads/product_image/product_3_1_thumb.jpg') no-repeat center center; 
+                                background-size: 100% auto;">
+                        </div>
+                    </a>
+                    
+                    <a class="add-to-cart add_to_cart" data-type='text' data-pid='3' >
+                        <i class="fa fa-shopping-cart"></i>
+                                                    Add To Cart                                            </a>
+                                            <div class="shop-bg-green rgba-banner" style="border-top-right-radius: 4px !important;" >
+                            5.00%                             Off                        </div>
+                                    </div>
+                <div class="product-description product-description-brd">
+                    <div class="overflow-h margin-bottom-5">
+                        <div class="col-md-9 pull-left" style="padding:0px;">
+                            <h4 class="title-price"><a href="http://localhost/active_supershop_v12_install/index.php/home/product_view/3/Demo-Product-3">Demo Product 3</a></h4>
+                            <span class="gender text-uppercase">Demo Category 2</span>
+                            <span class="gender">Demo Sub-category 3</span>
+                                                        <span class="gender">
+                                Vendor : <a href="http://localhost/active_supershop_v12_install/">Shop</a>                            </span>
+                                                    </div>    
+                        <div class="col-md-3 product-price" style="padding:0px;">
+                                                            <span class="title-price">$95.00</span>
+                                <span class="title-price line-through">$100.00</span>
+                                                    </div>
+                    </div>
+                    <ul class="list-inline product-ratings col-md-5 col-sm-5 col-xs-5 tooltips"
+                        data-original-title="0"	
+                            data-toggle="tooltip" data-placement="right" >
+                                                <li>
+                            <i class="rating fa fa-star"></i>
+                        </li>
+                                                <li>
+                            <i class="rating fa fa-star"></i>
+                        </li>
+                                                <li>
+                            <i class="rating fa fa-star"></i>
+                        </li>
+                                                <li>
+                            <i class="rating fa fa-star"></i>
+                        </li>
+                                                <li>
+                            <i class="rating fa fa-star"></i>
+                        </li>
+                                            </ul>
+                    <div class="col-md-6 col-sm-6 col-xs-6"></div>
+                                        
+                    <ul class="list-inline product-ratings col-md-1 col-sm-1 col-xs-1 tooltips"
+                         data-original-title="Add To Wishlist" 
+                            data-toggle="tooltip" data-placement="left" >
+                        <li class="like-icon">
+                            <span data-pid='3'
+                                class="wish_it">
+                                <i class="fa fa-heart"></i>
+                            </span>
+                        </li>
+                    </ul>    
+                </div>
+            </li>   
+                    <li class="item custom_item">
+                <div class="product-img">
+                    <a href="http://localhost/active_supershop_v12_install/index.php/home/product_view/2/Demo-Product-2">
+                        <div class="shadow" 
+                            style="background: url('http://localhost/active_supershop_v12_install/uploads/product_image/product_2_1_thumb.jpg') no-repeat center center; 
+                                background-size: 100% auto;">
+                        </div>
+                    </a>
+                    
+                    <a class="add-to-cart add_to_cart" data-type='text' data-pid='2' >
+                        <i class="fa fa-shopping-cart"></i>
+                                                    Add To Cart                                            </a>
+                                            <div class="shop-bg-green rgba-banner" style="border-top-right-radius: 4px !important;" >
+                            5.00%                             Off                        </div>
+                                    </div>
+                <div class="product-description product-description-brd">
+                    <div class="overflow-h margin-bottom-5">
+                        <div class="col-md-9 pull-left" style="padding:0px;">
+                            <h4 class="title-price"><a href="http://localhost/active_supershop_v12_install/index.php/home/product_view/2/Demo-Product-2">Demo Product 2</a></h4>
+                            <span class="gender text-uppercase">Demo Category 1</span>
+                            <span class="gender">Demo Sub-category 2</span>
+                                                        <span class="gender">
+                                Vendor : <a href="http://localhost/active_supershop_v12_install/index.php/home/vendor/1/Vendor-Shop">Vendor Shop</a>                            </span>
+                                                    </div>    
+                        <div class="col-md-3 product-price" style="padding:0px;">
+                                                            <span class="title-price">$95.00</span>
+                                <span class="title-price line-through">$100.00</span>
+                                                    </div>
+                    </div>
+                    <ul class="list-inline product-ratings col-md-5 col-sm-5 col-xs-5 tooltips"
+                        data-original-title="0"	
+                            data-toggle="tooltip" data-placement="right" >
+                                                <li>
+                            <i class="rating fa fa-star"></i>
+                        </li>
+                                                <li>
+                            <i class="rating fa fa-star"></i>
+                        </li>
+                                                <li>
+                            <i class="rating fa fa-star"></i>
+                        </li>
+                                                <li>
+                            <i class="rating fa fa-star"></i>
+                        </li>
+                                                <li>
+                            <i class="rating fa fa-star"></i>
+                        </li>
+                                            </ul>
+                    <div class="col-md-6 col-sm-6 col-xs-6"></div>
+                                        
+                    <ul class="list-inline product-ratings col-md-1 col-sm-1 col-xs-1 tooltips"
+                         data-original-title="Add To Wishlist" 
+                            data-toggle="tooltip" data-placement="left" >
+                        <li class="like-icon">
+                            <span data-pid='2'
+                                class="wish_it">
+                                <i class="fa fa-heart"></i>
+                            </span>
+                        </li>
+                    </ul>    
+                </div>
+            </li>   
+                    <li class="item custom_item">
+                <div class="product-img">
+                    <a href="http://localhost/active_supershop_v12_install/index.php/home/product_view/1/Demo-Product-1">
+                        <div class="shadow" 
+                            style="background: url('') no-repeat center center; 
+                                background-size: 100% auto;">
+                        </div>
+                    </a>
+                    
+                    <a class="add-to-cart add_to_cart" data-type='text' data-pid='1' >
+                        <i class="fa fa-shopping-cart"></i>
+                                                    Add To Cart                                            </a>
+                                            <div class="shop-bg-green rgba-banner" style="border-top-right-radius: 4px !important;" >
+                            5.00%                             Off                        </div>
+                                    </div>
+                <div class="product-description product-description-brd">
+                    <div class="overflow-h margin-bottom-5">
+                        <div class="col-md-9 pull-left" style="padding:0px;">
+                            <h4 class="title-price"><a href="http://localhost/active_supershop_v12_install/index.php/home/product_view/1/Demo-Product-1">Demo Product 1</a></h4>
+                            <span class="gender text-uppercase">Demo Category 1</span>
+                            <span class="gender">Demo Sub-category 1</span>
+                                                        <span class="gender">
+                                Vendor : <a href="http://localhost/active_supershop_v12_install/index.php/home/vendor/1/Vendor-Shop">Vendor Shop</a>                            </span>
+                                                    </div>    
+                        <div class="col-md-3 product-price" style="padding:0px;">
+                                                            <span class="title-price">$95.00</span>
+                                <span class="title-price line-through">$100.00</span>
+                                                    </div>
+                    </div>
+                    <ul class="list-inline product-ratings col-md-5 col-sm-5 col-xs-5 tooltips"
+                        data-original-title="0"	
+                            data-toggle="tooltip" data-placement="right" >
+                                                <li>
+                            <i class="rating fa fa-star"></i>
+                        </li>
+                                                <li>
+                            <i class="rating fa fa-star"></i>
+                        </li>
+                                                <li>
+                            <i class="rating fa fa-star"></i>
+                        </li>
+                                                <li>
+                            <i class="rating fa fa-star"></i>
+                        </li>
+                                                <li>
+                            <i class="rating fa fa-star"></i>
+                        </li>
+                                            </ul>
+                    <div class="col-md-6 col-sm-6 col-xs-6"></div>
+                                        
+                    <ul class="list-inline product-ratings col-md-1 col-sm-1 col-xs-1 tooltips"
+                         data-original-title="Add To Wishlist" 
+                            data-toggle="tooltip" data-placement="left" >
+                        <li class="like-icon">
+                            <span data-pid='1'
+                                class="wish_it">
+                                <i class="fa fa-heart"></i>
+                            </span>
+                        </li>
+                    </ul>    
+                </div>
+            </li>   
+                </ul>
+    </div>
+</div>
+
+<!--=== home banner ===-->
+<div class="container margin-bottom-30">
+	</div>
+
+<div class="parallax-team parallaxBg">
+    <div class="container content">
+        <div class="title-box-v2">
+            <h2>Search Product</h2>
+        </div>
+
+        <div class="row">
+            <form action="http://localhost/active_supershop_v12_install/index.php/home/home_search/text" class="sky-form" method="post" enctype="multipart/form-data" style="border:none !important;" accept-charset="utf-8">
+<input type="hidden" name="csrf_test_name" value="77b4561802907862f12bc3ac86b56555" style="display:none;" />
+                <div class="col-md-3 col-sm-6">
+                    <label class="select">
+                        <select name='category' id='category' >
+                            <option value="0">Choose Category</option>
+                                                        	<option value="1">Demo Category 1</option>
+                                                        	<option value="2">Demo Category 2</option>
+                                                    </select>
+                        <i></i>
+                    </label>
+                </div>
+                
+                <div class="col-md-3 col-sm-6">
+                    <label class="select">
+                        <select name='sub_category' onchange='get_pricerange(this.value)'  id='sub_category'>
+                            <option value="0">Choose Sub Category</option>
+                        </select>
+                        <i></i>
+                    </label>
+                </div>
+                
+                <div class="col-md-3 col-sm-6" id="range">
+                    <input type="text" id="rangelvl" value="" name="range" />
+                    <script>
+						$( document ).ready(function() {
+							$("#rangelvl").ionRangeSlider({
+								hide_min_max: false,
+								keyboard: true,
+								min:100.00,
+								max:100.00,
+								from:100.00,
+								to:100.00,
+								type: "double",
+								step: 1,
+								prefix: "$",
+								grid: true,
+								onFinish: function (data) {
+									filter('click','none','none','0');
+								}
+							});
+                    	});
+                    </script>
+                </div>
+                
+                <div class="col-md-3 col-sm-6">
+                    <input type="submit" class="form-control" value="Search">
+                </div>
+            </form>
+            
+        </div>
+    </div>
+</div>    
+
+
+
+<div class="container margin-top-20">
+	</div>  
+
+<div class="container content">
+    <div class="row">
+    <div class="col-md-12">
+            <!-- Owl Carousel v2 -->
+                            <!-- Tab v1 -->               
+                <div class="tab-v2 margin-bottom-30" style="background:#fff;box-shadow: 0px 0px 6px 1px #ddd;">
+                    <ul class="nav nav-tabs full theme_1" style="background:#F9F9F9;">
+                        <li>
+                        	<div onClick="return false;" data-toggle="tab">
+                            	Demo Category 1                        	</div>
+                        </li>
+                                                	<li class="active" >
+                            	<a href="#sub_1" data-toggle="tab">
+									Demo Sub-category 1                                </a>
+                            </li>
+                                                	<li  >
+                            	<a href="#sub_2" data-toggle="tab">
+									Demo Sub-category 2                                </a>
+                            </li>
+                                                <li class="pull-right">
+                            <div class="owl-btn next tab_hov" style="padding:5px 13px !important;">
+                                <i class="fa fa-angle-right"></i>
+                            </div>
+                        </li>
+                        <li class="pull-right">
+                            <div class="owl-btn prev tab_hov" style="padding:5px 13px !important;">
+                                <i class="fa fa-angle-left"></i>
+                            </div>
+                        </li>
+                    </ul>            
+                    <div class="tab-content">
+                                                <div class="tab-pane fade in active" id="sub_1">
+                            <div class="row">
+                                <div class="illustration-v2 margin-bottom-60">
+                                    <ul class="list-inline owl-slider-v2">
+                                                                                <li class="item custom_item">
+                                            <div class="product-img">
+                                            
+                                                <a href="http://localhost/active_supershop_v12_install/index.php/home/product_view/1/Demo-Product-1">
+                                                    <div class="shadow" 
+                                                        style="background: url('') no-repeat center center; 
+                                                            background-size: 100% auto;">
+                                                    </div>
+                                                    
+                                                </a>
+                                                
+                                                <a class="add-to-cart add_to_cart" data-type='text' data-pid='1' >
+                                                    <i class="fa fa-shopping-cart"></i>
+                                                                                                            Add To Cart                                                                                                    </a>
+                                                                                                    <div class="shop-bg-green rgba-banner" style="border-top-right-radius: 4px !important;" >
+                                                        5.00%                                                         Off                                                    </div>
+                                                                                            </div>
+                                            <div class="product-description product-description-brd">
+                                                <div class="overflow-h margin-bottom-5">
+                                                    <div class="col-md-9 pull-left" style="padding:0px;">
+                                                        <h4 class="title-price"><a href="http://localhost/active_supershop_v12_install/index.php/home/product_view/1/Demo-Product-1">Demo Product 1</a></h4>
+                                                        <span class="gender text-uppercase">Demo Category 1</span>
+                                                        <span class="gender">Demo Sub-category 1</span>
+                                                        
+														                                                        <span class="gender">
+                                                            Vendor : <a href="http://localhost/active_supershop_v12_install/index.php/home/vendor/1/Vendor-Shop">Vendor Shop</a>                                                        </span>
+                                                        
+														                                                    </div>    
+                                                    <div class="col-md-3 product-price" style="padding:0px;">
+                                                                                                                    <span class="title-price">$95.00</span>
+                                                            <span class="title-price line-through">$100.00</span>
+                                                                                                            </div>
+                                                </div>
+                                                <ul class="list-inline product-ratings col-md-5 col-sm-5 col-xs-5 tooltips"
+                                                    data-original-title="0"	
+                                                        data-toggle="tooltip" data-placement="right" >
+                                                                                                        <li>
+                                                        <i class="rating fa fa-star"></i>
+                                                    </li>
+                                                                                                        <li>
+                                                        <i class="rating fa fa-star"></i>
+                                                    </li>
+                                                                                                        <li>
+                                                        <i class="rating fa fa-star"></i>
+                                                    </li>
+                                                                                                        <li>
+                                                        <i class="rating fa fa-star"></i>
+                                                    </li>
+                                                                                                        <li>
+                                                        <i class="rating fa fa-star"></i>
+                                                    </li>
+                                                                                                    </ul>
+                                                <div class="col-md-6 col-sm-6 col-xs-6"></div>
+                                                                                                
+                                                <ul class="list-inline product-ratings col-md-1 col-sm-1 col-xs-1 tooltips"
+                                                     data-original-title="Add To Wishlist" 
+                                                        data-toggle="tooltip" data-placement="left" >
+                                                    <li class="like-icon">
+                                                        <span data-pid='1'
+                                                            class="wish_it">
+                                                            <i class="fa fa-heart"></i>
+                                                        </span>
+                                                    </li>
+                                                </ul>    
+                                            </div>
+                                        </li>
+                                            
+                                    </ul>
+                                 </div>
+                            </div>
+                        </div>
+                                                <div class="tab-pane fade in " id="sub_2">
+                            <div class="row">
+                                <div class="illustration-v2 margin-bottom-60">
+                                    <ul class="list-inline owl-slider-v2">
+                                                                                <li class="item custom_item">
+                                            <div class="product-img">
+                                            
+                                                <a href="http://localhost/active_supershop_v12_install/index.php/home/product_view/2/Demo-Product-2">
+                                                    <div class="shadow" 
+                                                        style="background: url('http://localhost/active_supershop_v12_install/uploads/product_image/product_2_1_thumb.jpg') no-repeat center center; 
+                                                            background-size: 100% auto;">
+                                                    </div>
+                                                    
+                                                </a>
+                                                
+                                                <a class="add-to-cart add_to_cart" data-type='text' data-pid='2' >
+                                                    <i class="fa fa-shopping-cart"></i>
+                                                                                                            Add To Cart                                                                                                    </a>
+                                                                                                    <div class="shop-bg-green rgba-banner" style="border-top-right-radius: 4px !important;" >
+                                                        5.00%                                                         Off                                                    </div>
+                                                                                            </div>
+                                            <div class="product-description product-description-brd">
+                                                <div class="overflow-h margin-bottom-5">
+                                                    <div class="col-md-9 pull-left" style="padding:0px;">
+                                                        <h4 class="title-price"><a href="http://localhost/active_supershop_v12_install/index.php/home/product_view/2/Demo-Product-2">Demo Product 2</a></h4>
+                                                        <span class="gender text-uppercase">Demo Category 1</span>
+                                                        <span class="gender">Demo Sub-category 2</span>
+                                                        
+														                                                        <span class="gender">
+                                                            Vendor : <a href="http://localhost/active_supershop_v12_install/index.php/home/vendor/1/Vendor-Shop">Vendor Shop</a>                                                        </span>
+                                                        
+														                                                    </div>    
+                                                    <div class="col-md-3 product-price" style="padding:0px;">
+                                                                                                                    <span class="title-price">$95.00</span>
+                                                            <span class="title-price line-through">$100.00</span>
+                                                                                                            </div>
+                                                </div>
+                                                <ul class="list-inline product-ratings col-md-5 col-sm-5 col-xs-5 tooltips"
+                                                    data-original-title="0"	
+                                                        data-toggle="tooltip" data-placement="right" >
+                                                                                                        <li>
+                                                        <i class="rating fa fa-star"></i>
+                                                    </li>
+                                                                                                        <li>
+                                                        <i class="rating fa fa-star"></i>
+                                                    </li>
+                                                                                                        <li>
+                                                        <i class="rating fa fa-star"></i>
+                                                    </li>
+                                                                                                        <li>
+                                                        <i class="rating fa fa-star"></i>
+                                                    </li>
+                                                                                                        <li>
+                                                        <i class="rating fa fa-star"></i>
+                                                    </li>
+                                                                                                    </ul>
+                                                <div class="col-md-6 col-sm-6 col-xs-6"></div>
+                                                                                                
+                                                <ul class="list-inline product-ratings col-md-1 col-sm-1 col-xs-1 tooltips"
+                                                     data-original-title="Add To Wishlist" 
+                                                        data-toggle="tooltip" data-placement="left" >
+                                                    <li class="like-icon">
+                                                        <span data-pid='2'
+                                                            class="wish_it">
+                                                            <i class="fa fa-heart"></i>
+                                                        </span>
+                                                    </li>
+                                                </ul>    
+                                            </div>
+                                        </li>
+                                            
+                                    </ul>
+                                 </div>
+                            </div>
+                        </div>
+                                                
+                        
+                    </div>
+                </div>
+                <!-- End Tab v1 -->  
+                             <!-- Tab v1 -->               
+                <div class="tab-v2 margin-bottom-30" style="background:#fff;box-shadow: 0px 0px 6px 1px #ddd;">
+                    <ul class="nav nav-tabs full theme_2" style="background:#F9F9F9;">
+                        <li>
+                        	<div onClick="return false;" data-toggle="tab">
+                            	Demo Category 2                        	</div>
+                        </li>
+                                                	<li class="active" >
+                            	<a href="#sub_3" data-toggle="tab">
+									Demo Sub-category 3                                </a>
+                            </li>
+                                                	<li  >
+                            	<a href="#sub_4" data-toggle="tab">
+									Demo Sub-category 4                                </a>
+                            </li>
+                                                <li class="pull-right">
+                            <div class="owl-btn next tab_hov" style="padding:5px 13px !important;">
+                                <i class="fa fa-angle-right"></i>
+                            </div>
+                        </li>
+                        <li class="pull-right">
+                            <div class="owl-btn prev tab_hov" style="padding:5px 13px !important;">
+                                <i class="fa fa-angle-left"></i>
+                            </div>
+                        </li>
+                    </ul>            
+                    <div class="tab-content">
+                                                <div class="tab-pane fade in active" id="sub_3">
+                            <div class="row">
+                                <div class="illustration-v2 margin-bottom-60">
+                                    <ul class="list-inline owl-slider-v2">
+                                                                                <li class="item custom_item">
+                                            <div class="product-img">
+                                            
+                                                <a href="http://localhost/active_supershop_v12_install/index.php/home/product_view/3/Demo-Product-3">
+                                                    <div class="shadow" 
+                                                        style="background: url('http://localhost/active_supershop_v12_install/uploads/product_image/product_3_1_thumb.jpg') no-repeat center center; 
+                                                            background-size: 100% auto;">
+                                                    </div>
+                                                    
+                                                </a>
+                                                
+                                                <a class="add-to-cart add_to_cart" data-type='text' data-pid='3' >
+                                                    <i class="fa fa-shopping-cart"></i>
+                                                                                                            Add To Cart                                                                                                    </a>
+                                                                                                    <div class="shop-bg-green rgba-banner" style="border-top-right-radius: 4px !important;" >
+                                                        5.00%                                                         Off                                                    </div>
+                                                                                            </div>
+                                            <div class="product-description product-description-brd">
+                                                <div class="overflow-h margin-bottom-5">
+                                                    <div class="col-md-9 pull-left" style="padding:0px;">
+                                                        <h4 class="title-price"><a href="http://localhost/active_supershop_v12_install/index.php/home/product_view/3/Demo-Product-3">Demo Product 3</a></h4>
+                                                        <span class="gender text-uppercase">Demo Category 2</span>
+                                                        <span class="gender">Demo Sub-category 3</span>
+                                                        
+														                                                        <span class="gender">
+                                                            Vendor : <a href="http://localhost/active_supershop_v12_install/">Shop</a>                                                        </span>
+                                                        
+														                                                    </div>    
+                                                    <div class="col-md-3 product-price" style="padding:0px;">
+                                                                                                                    <span class="title-price">$95.00</span>
+                                                            <span class="title-price line-through">$100.00</span>
+                                                                                                            </div>
+                                                </div>
+                                                <ul class="list-inline product-ratings col-md-5 col-sm-5 col-xs-5 tooltips"
+                                                    data-original-title="0"	
+                                                        data-toggle="tooltip" data-placement="right" >
+                                                                                                        <li>
+                                                        <i class="rating fa fa-star"></i>
+                                                    </li>
+                                                                                                        <li>
+                                                        <i class="rating fa fa-star"></i>
+                                                    </li>
+                                                                                                        <li>
+                                                        <i class="rating fa fa-star"></i>
+                                                    </li>
+                                                                                                        <li>
+                                                        <i class="rating fa fa-star"></i>
+                                                    </li>
+                                                                                                        <li>
+                                                        <i class="rating fa fa-star"></i>
+                                                    </li>
+                                                                                                    </ul>
+                                                <div class="col-md-6 col-sm-6 col-xs-6"></div>
+                                                                                                
+                                                <ul class="list-inline product-ratings col-md-1 col-sm-1 col-xs-1 tooltips"
+                                                     data-original-title="Add To Wishlist" 
+                                                        data-toggle="tooltip" data-placement="left" >
+                                                    <li class="like-icon">
+                                                        <span data-pid='3'
+                                                            class="wish_it">
+                                                            <i class="fa fa-heart"></i>
+                                                        </span>
+                                                    </li>
+                                                </ul>    
+                                            </div>
+                                        </li>
+                                            
+                                    </ul>
+                                 </div>
+                            </div>
+                        </div>
+                                                <div class="tab-pane fade in " id="sub_4">
+                            <div class="row">
+                                <div class="illustration-v2 margin-bottom-60">
+                                    <ul class="list-inline owl-slider-v2">
+                                                                                <li class="item custom_item">
+                                            <div class="product-img">
+                                            
+                                                <a href="http://localhost/active_supershop_v12_install/index.php/home/product_view/4/Demo-Product-4">
+                                                    <div class="shadow" 
+                                                        style="background: url('http://localhost/active_supershop_v12_install/uploads/product_image/product_4_1_thumb.jpg') no-repeat center center; 
+                                                            background-size: 100% auto;">
+                                                    </div>
+                                                    
+                                                </a>
+                                                
+                                                <a class="add-to-cart add_to_cart" data-type='text' data-pid='4' >
+                                                    <i class="fa fa-shopping-cart"></i>
+                                                                                                            Add To Cart                                                                                                    </a>
+                                                                                                    <div class="shop-bg-green rgba-banner" style="border-top-right-radius: 4px !important;" >
+                                                        5.00%                                                         Off                                                    </div>
+                                                                                            </div>
+                                            <div class="product-description product-description-brd">
+                                                <div class="overflow-h margin-bottom-5">
+                                                    <div class="col-md-9 pull-left" style="padding:0px;">
+                                                        <h4 class="title-price"><a href="http://localhost/active_supershop_v12_install/index.php/home/product_view/4/Demo-Product-4">Demo Product 4</a></h4>
+                                                        <span class="gender text-uppercase">Demo Category 2</span>
+                                                        <span class="gender">Demo Sub-category 4</span>
+                                                        
+														                                                        <span class="gender">
+                                                            Vendor : <a href="http://localhost/active_supershop_v12_install/">Shop</a>                                                        </span>
+                                                        
+														                                                    </div>    
+                                                    <div class="col-md-3 product-price" style="padding:0px;">
+                                                                                                                    <span class="title-price">$95.00</span>
+                                                            <span class="title-price line-through">$100.00</span>
+                                                                                                            </div>
+                                                </div>
+                                                <ul class="list-inline product-ratings col-md-5 col-sm-5 col-xs-5 tooltips"
+                                                    data-original-title="0"	
+                                                        data-toggle="tooltip" data-placement="right" >
+                                                                                                        <li>
+                                                        <i class="rating fa fa-star"></i>
+                                                    </li>
+                                                                                                        <li>
+                                                        <i class="rating fa fa-star"></i>
+                                                    </li>
+                                                                                                        <li>
+                                                        <i class="rating fa fa-star"></i>
+                                                    </li>
+                                                                                                        <li>
+                                                        <i class="rating fa fa-star"></i>
+                                                    </li>
+                                                                                                        <li>
+                                                        <i class="rating fa fa-star"></i>
+                                                    </li>
+                                                                                                    </ul>
+                                                <div class="col-md-6 col-sm-6 col-xs-6"></div>
+                                                                                                
+                                                <ul class="list-inline product-ratings col-md-1 col-sm-1 col-xs-1 tooltips"
+                                                     data-original-title="Add To Wishlist" 
+                                                        data-toggle="tooltip" data-placement="left" >
+                                                    <li class="like-icon">
+                                                        <span data-pid='4'
+                                                            class="wish_it">
+                                                            <i class="fa fa-heart"></i>
+                                                        </span>
+                                                    </li>
+                                                </ul>    
+                                            </div>
+                                        </li>
+                                            
+                                    </ul>
+                                 </div>
+                            </div>
+                        </div>
+                                                
+                        
+                    </div>
+                </div>
+                <!-- End Tab v1 -->  
+                 
+        </div>
+        
+        <!--=== home banner ===-->
+        <div class="col-md-12">
+            <div class="container">
+                            </div>
+        </div>
+        
+        
+        <!--=== Illustration v4 ===-->
+        <div class="row illustration-v4 margin-bottom-20">
+            <div class="col-md-4">
+                <div class="heading margin-bottom-10 margin-top-20">
+                    <h2>Latest Products</h2>
+                </div>
+				                <div class="thumb-product">
+                    <div class="thumb-product-img" style="background:url('http://localhost/active_supershop_v12_install/uploads/product_image/product_4_1_thumb.jpg') no-repeat center center; background-size: 100% auto;"></div>
+                    <div class="thumb-product-in">
+                        <h4><a href="http://localhost/active_supershop_v12_install/index.php/home/product_view/4/Demo-Product-4">Demo Product 4</a></h4>
+                        <span class="thumb-product-type">Demo Category 2</span>
+                    </div>
+                    <ul class="list-inline overflow-h">
+					                        <li class="thumb-product-price">
+							$95.00                        </li>
+                        <li class="thumb-product-price line-through">
+							$100.00                        </li>
+                                            <li class="thumb-product-purchase">
+                            <span data-original-title="Add To Cart" data-toggle="tooltip" data-placement="left"  class="tooltips add-to-cart add_to_cart" data-type='icon' data-pid='4' >
+                                                                    <i class="fa fa-shopping-cart"></i>
+                                                            </span> 
+                            |
+                                                            <span data-original-title="Add To Wishlist" data-toggle="tooltip" data-placement="left" data-pid='4' class="tooltips wish_it">
+                                	<i class="fa fa-heart"></i>
+                                </span>
+                                                    </li>
+                    </ul>    
+                </div>
+                                <div class="thumb-product">
+                    <div class="thumb-product-img" style="background:url('http://localhost/active_supershop_v12_install/uploads/product_image/product_3_1_thumb.jpg') no-repeat center center; background-size: 100% auto;"></div>
+                    <div class="thumb-product-in">
+                        <h4><a href="http://localhost/active_supershop_v12_install/index.php/home/product_view/4/Demo-Product-4">Demo Product 3</a></h4>
+                        <span class="thumb-product-type">Demo Category 2</span>
+                    </div>
+                    <ul class="list-inline overflow-h">
+					                        <li class="thumb-product-price">
+							$95.00                        </li>
+                        <li class="thumb-product-price line-through">
+							$100.00                        </li>
+                                            <li class="thumb-product-purchase">
+                            <span data-original-title="Add To Cart" data-toggle="tooltip" data-placement="left"  class="tooltips add-to-cart add_to_cart" data-type='icon' data-pid='3' >
+                                                                    <i class="fa fa-shopping-cart"></i>
+                                                            </span> 
+                            |
+                                                            <span data-original-title="Add To Wishlist" data-toggle="tooltip" data-placement="left" data-pid='3' class="tooltips wish_it">
+                                	<i class="fa fa-heart"></i>
+                                </span>
+                                                    </li>
+                    </ul>    
+                </div>
+                                <div class="thumb-product">
+                    <div class="thumb-product-img" style="background:url('http://localhost/active_supershop_v12_install/uploads/product_image/product_2_1_thumb.jpg') no-repeat center center; background-size: 100% auto;"></div>
+                    <div class="thumb-product-in">
+                        <h4><a href="http://localhost/active_supershop_v12_install/index.php/home/product_view/4/Demo-Product-4">Demo Product 2</a></h4>
+                        <span class="thumb-product-type">Demo Category 1</span>
+                    </div>
+                    <ul class="list-inline overflow-h">
+					                        <li class="thumb-product-price">
+							$95.00                        </li>
+                        <li class="thumb-product-price line-through">
+							$100.00                        </li>
+                                            <li class="thumb-product-purchase">
+                            <span data-original-title="Add To Cart" data-toggle="tooltip" data-placement="left"  class="tooltips add-to-cart add_to_cart" data-type='icon' data-pid='2' >
+                                                                    <i class="fa fa-shopping-cart"></i>
+                                                            </span> 
+                            |
+                                                            <span data-original-title="Add To Wishlist" data-toggle="tooltip" data-placement="left" data-pid='2' class="tooltips wish_it">
+                                	<i class="fa fa-heart"></i>
+                                </span>
+                                                    </li>
+                    </ul>    
+                </div>
+                            </div>
+            
+            <div class="col-md-4">
+                <div class="heading margin-bottom-10 margin-top-20">
+                    <h2>Most Sold</h2>
+                </div>
+				                <div class="thumb-product">
+                    <div class="thumb-product-img" style="background:url('http://localhost/active_supershop_v12_install/uploads/product_image/product_3_1_thumb.jpg') no-repeat center center; background-size: 100% auto;"></div>
+                    <div class="thumb-product-in">
+                        <h4><a href="http://localhost/active_supershop_v12_install/index.php/home/product_view/3/Demo-Product-3">Demo Product 3</a></h4>
+                        <span class="thumb-product-type">Demo Category 2</span>
+                    </div>
+                    <ul class="list-inline overflow-h">
+					                        <li class="thumb-product-price">
+							$95.00                        </li>
+                        <li class="thumb-product-price line-through">
+							$100.00                        </li>
+                                            <li class="thumb-product-purchase">
+                            <span data-original-title="Add to Cart" data-toggle="tooltip" data-placement="left"  class="tooltips add-to-cart add_to_cart" data-type='icon' data-pid='3' >
+                                                                    <i class="fa fa-shopping-cart"></i>
+                                                            </span> 
+                            |
+                                                            <span data-original-title="Add To Wishlist" data-toggle="tooltip" data-placement="left" data-pid='3' class="tooltips wish_it">
+                                	<i class="fa fa-heart"></i>
+                                </span>
+                                                    </li>
+                    </ul>    
+                </div>
+                                <div class="thumb-product">
+                    <div class="thumb-product-img" style="background:url('http://localhost/active_supershop_v12_install/uploads/product_image/product_2_1_thumb.jpg') no-repeat center center; background-size: 100% auto;"></div>
+                    <div class="thumb-product-in">
+                        <h4><a href="http://localhost/active_supershop_v12_install/index.php/home/product_view/2/Demo-Product-2">Demo Product 2</a></h4>
+                        <span class="thumb-product-type">Demo Category 1</span>
+                    </div>
+                    <ul class="list-inline overflow-h">
+					                        <li class="thumb-product-price">
+							$95.00                        </li>
+                        <li class="thumb-product-price line-through">
+							$100.00                        </li>
+                                            <li class="thumb-product-purchase">
+                            <span data-original-title="Add to Cart" data-toggle="tooltip" data-placement="left"  class="tooltips add-to-cart add_to_cart" data-type='icon' data-pid='2' >
+                                                                    <i class="fa fa-shopping-cart"></i>
+                                                            </span> 
+                            |
+                                                            <span data-original-title="Add To Wishlist" data-toggle="tooltip" data-placement="left" data-pid='2' class="tooltips wish_it">
+                                	<i class="fa fa-heart"></i>
+                                </span>
+                                                    </li>
+                    </ul>    
+                </div>
+                                <div class="thumb-product">
+                    <div class="thumb-product-img" style="background:url('') no-repeat center center; background-size: 100% auto;"></div>
+                    <div class="thumb-product-in">
+                        <h4><a href="http://localhost/active_supershop_v12_install/index.php/home/product_view/1/Demo-Product-1">Demo Product 1</a></h4>
+                        <span class="thumb-product-type">Demo Category 1</span>
+                    </div>
+                    <ul class="list-inline overflow-h">
+					                        <li class="thumb-product-price">
+							$95.00                        </li>
+                        <li class="thumb-product-price line-through">
+							$100.00                        </li>
+                                            <li class="thumb-product-purchase">
+                            <span data-original-title="Add to Cart" data-toggle="tooltip" data-placement="left"  class="tooltips add-to-cart add_to_cart" data-type='icon' data-pid='1' >
+                                                                    <i class="fa fa-shopping-cart"></i>
+                                                            </span> 
+                            |
+                                                            <span data-original-title="Add To Wishlist" data-toggle="tooltip" data-placement="left" data-pid='1' class="tooltips wish_it">
+                                	<i class="fa fa-heart"></i>
+                                </span>
+                                                    </li>
+                    </ul>    
+                </div>
+                                
+            </div>
+            
+            <div class="col-md-4">
+                <div class="heading margin-bottom-10 margin-top-20">
+                    <h2>Most Viewed Products</h2>
+                </div>
+				                <div class="thumb-product">
+                    <div class="thumb-product-img" style="background:url('') no-repeat center center; background-size: 100% auto;"></div>
+                    <div class="thumb-product-in">
+                        <h4><a href="http://localhost/active_supershop_v12_install/index.php/home/product_view/1/Demo-Product-1">Demo Product 1</a></h4>
+                        <span class="thumb-product-type">Demo Category 1</span>
+                    </div>
+                    <ul class="list-inline overflow-h">
+					                        <li class="thumb-product-price">
+							$95.00                        </li>
+                        <li class="thumb-product-price line-through">
+							$100.00                        </li>
+                                            <li class="thumb-product-purchase">
+                            <span data-original-title="Add To Cart" data-toggle="tooltip" data-placement="left"  class="tooltips add-to-cart add_to_cart" data-type='icon' data-pid='1' >
+                                                                    <i class="fa fa-shopping-cart"></i>
+                                                            </span>
+                            |
+                                                            <span data-original-title="Add To Wishlist" data-toggle="tooltip" data-placement="left" data-pid='1' class="tooltips wish_it">
+                                	<i class="fa fa-heart"></i>
+                                </span>
+                                                    </li>
+                    </ul>    
+                </div>
+                                <div class="thumb-product">
+                    <div class="thumb-product-img" style="background:url('http://localhost/active_supershop_v12_install/uploads/product_image/product_2_1_thumb.jpg') no-repeat center center; background-size: 100% auto;"></div>
+                    <div class="thumb-product-in">
+                        <h4><a href="http://localhost/active_supershop_v12_install/index.php/home/product_view/2/Demo-Product-2">Demo Product 2</a></h4>
+                        <span class="thumb-product-type">Demo Category 1</span>
+                    </div>
+                    <ul class="list-inline overflow-h">
+					                        <li class="thumb-product-price">
+							$95.00                        </li>
+                        <li class="thumb-product-price line-through">
+							$100.00                        </li>
+                                            <li class="thumb-product-purchase">
+                            <span data-original-title="Add To Cart" data-toggle="tooltip" data-placement="left"  class="tooltips add-to-cart add_to_cart" data-type='icon' data-pid='2' >
+                                                                    <i class="fa fa-shopping-cart"></i>
+                                                            </span>
+                            |
+                                                            <span data-original-title="Add To Wishlist" data-toggle="tooltip" data-placement="left" data-pid='2' class="tooltips wish_it">
+                                	<i class="fa fa-heart"></i>
+                                </span>
+                                                    </li>
+                    </ul>    
+                </div>
+                                <div class="thumb-product">
+                    <div class="thumb-product-img" style="background:url('http://localhost/active_supershop_v12_install/uploads/product_image/product_3_1_thumb.jpg') no-repeat center center; background-size: 100% auto;"></div>
+                    <div class="thumb-product-in">
+                        <h4><a href="http://localhost/active_supershop_v12_install/index.php/home/product_view/3/Demo-Product-3">Demo Product 3</a></h4>
+                        <span class="thumb-product-type">Demo Category 2</span>
+                    </div>
+                    <ul class="list-inline overflow-h">
+					                        <li class="thumb-product-price">
+							$95.00                        </li>
+                        <li class="thumb-product-price line-through">
+							$100.00                        </li>
+                                            <li class="thumb-product-purchase">
+                            <span data-original-title="Add To Cart" data-toggle="tooltip" data-placement="left"  class="tooltips add-to-cart add_to_cart" data-type='icon' data-pid='3' >
+                                                                    <i class="fa fa-shopping-cart"></i>
+                                                            </span>
+                            |
+                                                            <span data-original-title="Add To Wishlist" data-toggle="tooltip" data-placement="left" data-pid='3' class="tooltips wish_it">
+                                	<i class="fa fa-heart"></i>
+                                </span>
+                                                    </li>
+                    </ul>    
+                </div>
+                            </div>
+        </div><!--/end row-->
+
+        
+		        <!--=== Sponsors ===-->
+        <div class="container content">
+            <div class="heading margin-bottom-20">
+                <h2>Our Available Brands</h2>
+            </div>
+    
+            <ul class="list-inline owl-sponsor">
+            	                        <li class="item first-child">
+                            <img src="http://localhost/active_supershop_v12_install/uploads/brand_image/brand_1.png" alt="">
+                        </li>
+                                        <li class="item ">
+                            <img src="http://localhost/active_supershop_v12_install/uploads/brand_image/brand_2.png" alt="">
+                        </li>
+                                        <li class="item ">
+                            <img src="http://localhost/active_supershop_v12_install/uploads/brand_image/brand_3.png" alt="">
+                        </li>
+                                        <li class="item ">
+                            <img src="http://localhost/active_supershop_v12_install/uploads/brand_image/brand_4.png" alt="">
+                        </li>
+                                        <li class="item ">
+                            <img src="http://localhost/active_supershop_v12_install/uploads/brand_image/brand_5.png" alt="">
+                        </li>
+                                        <li class="item ">
+                            <img src="http://localhost/active_supershop_v12_install/uploads/brand_image/brand_6.png" alt="">
+                        </li>
+                            </ul><!--/end owl-carousel-->
+        </div>
+</div>
+</div>
+             
+<script>
+	$('#category').on('change', function(){
+		var category = $('#category').val();
+		var list1 = $('#sub_category');
+		var list2 = $('#range');
+		$.ajax({
+			url: 'http://localhost/active_supershop_v12_install/index.php/home/others/get_sub_by_cat/'+category,
+			beforeSend: function() {
+				list1.html('...');
+			},
+			success: function(data) {
+				list1.html(data);
+			},
+			error: function(e) {
+				console.log(e)
+			}
+		});
+		$.ajax({
+			url: 'http://localhost/active_supershop_v12_install/index.php/home/others/get_range_by_cat/'+category,
+			beforeSend: function() {
+				list2.html('...');
+			},
+			success: function(data) {
+				list2.html(data);
+			},
+			error: function(e) {
+				console.log(e)
+			}
+		});
+	});
+	$('#sub_category').on('change', function(){
+		var sub_category = $('#sub_category').val();
+		var list2 = $('#range');
+		$.ajax({
+			url: 'http://localhost/active_supershop_v12_install/index.php/home/others/get_range_by_sub/'+sub_category,
+			beforeSend: function() {
+				list2.html('...');
+			},
+			success: function(data) {
+				list2.html(data);
+			},
+			error: function(e) {
+				console.log(e)
+			}
+		});
+	});
+	function filter(){}
+</script>
+<style>
+
+div.shadow {
+    max-height:300px;
+    min-height:300px;
+    overflow:hidden;
+	-webkit-transition: all .4s ease;
+	-moz-transition: all .4s ease;
+	-o-transition: all .4s ease;
+	-ms-transition: all .4s ease;
+	transition: all .4s ease;
+}
+.shadow:hover {
+	background-size: 110% auto !important;
+}
+
+.custom_item{
+  border: 1px solid #ccc;
+  border-radius: 4px !important;
+    transition: all .2s ease-in-out;
+	margin-top:10px !important;	
+}
+.custom_item:hover{
+	webkit-transform: translate3d(0, -5px, 0);
+  -moz-transform: translate3d(0, -5px, 0);
+  -o-transform: translate3d(0, -5px, 0);
+  -ms-transform: translate3d(0, -5px, 0);
+  transform: translate3d(0, -5px, 0);
+  border:1px solid #AB00FF;
+}
+.tab_hov{
+transition: all .5s ease-in-out;	
+}
+.tab_hov:hover{
+opacity:0.7;
+transition: all .5s ease-in-out;
+}
+.tab_hov:active{
+opacity:0.7;
+}
+</style>	    <!-- Modal -->
+    <div class="modal fade" id="v_registration" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div id='ajvlup'></div>
+    </div>
+    <!-- End Modal -->
+
+    <!-- Modal -->
+    <div class="modal fade" id="login" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div id='ajlin'></div>
+    </div>
+    <!-- End Modal -->
+
+    <!-- Modal -->
+    <div class="modal fade" id="registration" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div id='ajlup'></div> 
+    </div>
+    <!-- End Modal -->
+
+    <a data-toggle="modal" data-target="#login" id="loginss" ></a>
+    <a data-toggle="modal" data-target="#registration" id="regiss" ></a>
+    <a data-toggle="modal" data-target="#v_registration" id="v_regiss" ></a>
+    
+<!--=== Footer ===-->
+
+	<div class="footer-purple">
+            <div class="footer">
+                <div class="container">
+                    <div class="row">
+                        <!-- About -->
+                        <div class="col-md-3 md-margin-bottom-40">
+                            <center><a href="http://localhost/active_supershop_v12_install/">
+                            	<img id="logo-footer" class="footer-logo" width='100%'
+                                	src="http://localhost/active_supershop_v12_install/uploads/logo_image/logo_18.png" alt="">
+                            </a></center>
+                            
+                            <p class="margin-bottom-10">
+                            	<p><br></p>                            </p>
+
+							<form action="http://localhost/active_supershop_v12_install/index.php/home/subscribe" class="footer-subsribe" method="post" accept-charset="utf-8">
+<input type="hidden" name="csrf_test_name" value="77b4561802907862f12bc3ac86b56555" style="display:none;" />
+    
+                                <div class="input-group">
+                                    <input type="text" class="form-control" name="email" id="subscr" placeholder="Email Address">                            
+                                    <span class="input-group-btn">
+                                        <span class="btn-u subscriber">Subscribe</span>
+                                    </span>
+                                </div>                  
+                            </form>                       
+                        </div>
+                        <!-- End About -->
+                        
+                        <!-- Link List -->
+                        <div class="col-md-3 md-margin-bottom-40">
+                            <div class="headline"><h2 class="heading-sm">Categories</h2></div>
+                            <ul class="list-unstyled link-list">
+                            	                                <li>
+                                	<a href="http://localhost/active_supershop_v12_install/index.php/home/category/1">
+                                    	Demo Category 1                                    </a>
+                                    <i class="fa fa-angle-right"></i>
+                                </li>
+                                                                <li>
+                                	<a href="http://localhost/active_supershop_v12_install/index.php/home/category/2">
+                                    	Demo Category 2                                    </a>
+                                    <i class="fa fa-angle-right"></i>
+                                </li>
+                                                            </ul>
+                        </div>
+                        <!-- End Link List -->                  
+
+                        <!-- Link List -->
+                        <div class="col-md-3 md-margin-bottom-40">
+                            <div class="headline heading-v4"><h2 class="heading-sm">Useful Links</h2></div>
+                            <ul class="list-unstyled link-list">
+                                <li>
+                                	<a href="http://localhost/active_supershop_v12_install/index.php/home/">
+                                    	Home                                    </a>
+                                    <i class="fa fa-angle-right"></i>
+                                </li>
+                                <li>
+                                	<a href="http://localhost/active_supershop_v12_install/index.php/home/category">
+                                    	All Products                                    </a>
+                                    <i class="fa fa-angle-right"></i>
+                                </li>
+                                <li>
+                                	<a href="http://localhost/active_supershop_v12_install/index.php/home/featured_item">
+                                    	Featured                                    </a>
+                                    <i class="fa fa-angle-right"></i>
+                                </li>
+                                <li>
+                                	<a href="http://localhost/active_supershop_v12_install/index.php/home/contact">
+                                    	Contact                                    </a>
+                                    <i class="fa fa-angle-right"></i>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- End Link List -->  
+
+                        <!-- Address -->
+                        <div class="col-md-3 md-margin-bottom-40">
+                            <div class="headline"><h2 class="heading-sm">Contact Us</h2></div>                         
+                            <address class="md-margin-bottom-40">
+                                <i class="fa fa-home"></i>
+									 <br />
+                                <i class="fa fa-phone"></i>
+                                	Phone:  <br />
+                                <i class="fa fa-globe"></i>
+                                	Website: <a href=""></a> <br />
+                                <i class="fa fa-envelope"></i>
+                                	Email: <a href="mailto:"></a> 
+                            </address>
+
+                            <!-- Social Links -->
+                            <ul class="social-icons">
+                                <li>
+                                	<a href="http://facebook.com/" data-original-title="Facebook" 
+                                    	class="rounded-x social_facebook"></a>
+                                </li>
+                                <li>
+                                	<a href="http://twitter.com/" data-original-title="Twitter" 
+                                    	class="rounded-x social_twitter"></a>
+                                </li>
+                                <li>
+                                	<a href="http://google.com/" data-original-title="Google Plus" 
+                                    	class="rounded-x social_googleplus"></a>
+                                </li>
+                                <li>
+                                	<a href="http://youtube.com/" data-original-title="Youtube" 
+                                    	class="rounded-x social_youtube"></a>
+                                </li>
+                            </ul>
+                            <!-- End Social Links -->
+                        </div>
+                        <!-- End Address -->
+                    </div>
+                </div> 
+            </div><!--/footer-->
+
+            <div class="copyright">
+                <div class="container">
+                	<div class="row">
+                    	<div class="col-md-7"> 
+                        	<p class="pull-left list-unstyled link-list">2015 &copy; All Rights Reserved @ <a target="_blank" href="http://localhost/active_supershop_v12_install/">Shop</a> | <a target="_blank" href="http://localhost/active_supershop_v12_install/index.php/home/legal/terms_conditions">Terms & Condition</a> | <a target="_blank" href="http://localhost/active_supershop_v12_install/index.php/home/legal/privacy_policy">Privacy Policy</a></p>
+                        </div>
+                    	<div class="col-md-5"> 
+                        	 <ul class="list-inline sponsors-icons pull-right">
+                            <li><i class="fa fa-cc-paypal cards"></i></li>
+                            <li><i class="fa fa-cc-visa cards"></i></li>
+                            <li><i class="fa fa-cc-mastercard cards"></i></li>
+                            <li><i class="fa fa-cc-discover cards"></i></li>
+                        </ul>
+
+                        </div>
+                    </div>
+                </div> 
+            </div><!--/copyright--> 
+        </div>
+<!--=== End Footer===-->
+
+</div><!--/wrapper--><script>
+	var base_url = 'http://localhost/active_supershop_v12_install/'; 
+	var product_added = 'Product Added To Cart';
+	var added_to_cart = 'Added To Cart';
+	var quantity_exceeds = 'Product Quantity Exceed Availability!';
+	var product_already = 'Product Already Added To Cart!';
+	var wishlist_add = 'Product Added To Wishlist';
+	var wishlist_add1 = 'Added To Wishlist';
+	var wishlist_adding = 'Adding To Wishlist..';
+	var wishlist_remove = 'Product Removed From Wishlist';
+	var rated_success = 'Product Rated Successfully';
+	var rated_fail = 'Product Rating Failed';
+	var rated_already = 'You Already Rated This Product';
+	var working = 'Working..';
+	var subscribe_already = 'You Already Subscribed';
+	var subscribe_success = 'You Subscribed Successfully';
+	var subscribe_sess = 'You Already Subscribed Thrice From This Browser';
+	var logging = 'Logging In..';
+	var login_success = 'You Logged In Successfully';
+	var login_fail = 'Login Failed! Try Again!';
+	var logup_success = 'You Registered Successfully';
+	var logup_fail = 'Registration Failed! Try Again!';
+	var logging = 'Logging In..';
+	var submitting = 'Submitting..';
+	var email_sent = 'Email Sent Successfully';
+	var email_noex = 'Email Does Not Exist!';
+	var email_fail = 'Email Sending Failed! Try Again';
+	var logging = 'Logging In';		
+	var cart_adding = 'Adding To Cart..';	
+	var cart_product_removed = 'Product Removed From Cart';	
+	var required = 'The Field Is Required';
+	var mbn = 'Must Be A Number';
+	var mbe = 'Must Be A Valid Email Address';		
+</script><script>
+    function set_loggers(){
+        var state = check_login_stat('state');
+        var name = check_login_stat('username');
+        state.success(function (data) {
+            if(data == 'hypass'){
+                name.success(function (data) {
+                    document.getElementById('loginsets').innerHTML = ''
+                    +'    <li>'
+                    +'        <a href="http://localhost/active_supershop_v12_install/index.php/home/profile/">'+data+'</a>'
+                    +'    </li>'
+                    +'    <li>'
+                    +'       <a href="http://localhost/active_supershop_v12_install/index.php/home/logout/">Logout</a>'
+                    +'    </li>'
+                    +'';
+                });
+                if($('body').find('.shopping-cart').length){
+                    set_cart_form();
+                }
+            } else {
+                document.getElementById('loginsets').innerHTML = ''
+				                +'    <li>'
+                +'        <a data-toggle="modal" data-target="#v_registration" class="point">Vendor Registration</a>'
+                +'    </li>'
+				                +'    <li>'
+                +'        <a data-toggle="modal" data-target="#login" class="point">Customer Login</a>'
+                +'    </li>'
+                +'    <li>'
+                +'       <a data-toggle="modal" data-target="#registration" class="point">Customer Registration</a>'
+                +'    </li>'
+                +'';
+            }
+        }); 
+        //onclick="ajax_load('+"'http://localhost/active_supershop_v12_install/index.php/home/login_set/login','login')"+';"
+        var cart = '';
+        if($('body').find('.shopping-cart').length){
+            cart = 'cart';
+        }
+        ajax_load('http://localhost/active_supershop_v12_install/index.php/home/vendor_logup/registration/','ajvlup');
+        ajax_load('http://localhost/active_supershop_v12_install/index.php/home/login_set/registration/'+cart,'ajlup');
+        ajax_load('http://localhost/active_supershop_v12_install/index.php/home/login_set/login/'+cart,'ajlin');
+    }
+
+    function check_login_stat(thing){
+        return $.ajax({
+            url: 'http://localhost/active_supershop_v12_install/index.php/home/check_login/'+thing
+        });
+    }
+
+
+    function set_cart_form(){
+        check_login_stat('langlat').success(function (data) { $('#langlat').val(data); });
+        check_login_stat('username').success(function (data) { $('#name').val(data); });
+        check_login_stat('email').success(function (data) { $('#email').val(data); });
+        check_login_stat('surname').success(function (data) { $('#surname').val(data); });
+        check_login_stat('phone').success(function (data) { $('#phone').val(data); });
+        check_login_stat('address1').success(function (data) { $('#address_1').val(data); });
+        check_login_stat('address2').success(function (data) { $('#address_2').val(data); });
+        check_login_stat('city').success(function (data) { $('#city').val(data); });
+        check_login_stat('zip').success(function (data) { $('#zip').val(data); });
+    }
+	
+    $( document ).ready(function() {
+        set_loggers();
+		    });
+
+    var base_url = 'http://localhost/active_supershop_v12_install/';
+    function register(){
+        setTimeout( function(){ 
+            $('#regiss').click();
+        }
+        , 400 );
+    }
+
+    function signin(){
+        setTimeout( function(){ 
+            $('#loginss').click();
+        }
+        , 400 );
+    }
+
+    function vend_logup(){
+        setTimeout( function(){ 
+            $('#v_regiss').click();
+        }
+        , 5000 );
+    }
+
+</script>
+
+<form action="http://localhost/active_supershop_v12_install/index.php" method="post" id="cart_form_singl" accept-charset="utf-8">
+<input type="hidden" name="csrf_test_name" value="77b4561802907862f12bc3ac86b56555" style="display:none;" />
+<input type="hidden" name="color" value="">
+<input type="hidden" name="qty" value="1">
+</form>
+
+
+<script type="text/javascript" src="http://localhost/active_supershop_v12_install/template/minify/new_scripts.min.js"></script>
+
+<script>
+	$('html, body').css({
+		'overflow': 'hidden',
+		'height': '100%'
+	});
+	
+    jQuery(document).ready(function() {
+        App.init();  
+        App.initParallaxBg();
+        OwlCarousel.initOwlCarousel();
+        RevolutionSlider.initRSfullWidth();
+        ParallaxSlider.initParallaxSlider(); 
+        FancyBox.initFancybox(); 
+    });
+	
+    $(document).ready(function() {
+        ajax_load('http://localhost/active_supershop_v12_install/index.php/home/cart/added_list/','added_list');
+    			setInterval(session_check, 6000);
+		function session_check(){
+			$.ajax({
+				url: 'http://localhost/active_supershop_v12_install/index.php/home/is_logged/',
+				success: function(data) {
+					if(data == 'yah!good'){}
+					else if (data == 'nope!bad') {
+						location.replace('http://localhost/active_supershop_v12_install/');
+					}
+				},
+				error: function(e) {
+					console.log(e)
+				}
+			});
+		}
+				// Hide it after 3 seconds
+        setTimeout(function(){
+            $('html, body').css({
+                'overflow': 'auto',
+                'height': 'auto'
+            });
+            $('#preloader').fadeOut("slow");
+        }, 1200);
+        setTimeout(function(){
+            if($('#layerslider').length){
+                start_slider();
+            }
+            //$('#chatContainer').show('slow');
+        }, 800);
+    });
+
+            function sound(type){}
+    </script>
+<audio style='display:none;' id='already_cart' ><source type="audio/mpeg" src="http://localhost/active_supershop_v12_install/uploads/audio/home/already_cart.mp3"></audio>
+<audio style='display:none;' id='captcha_incorrect' ><source type="audio/mpeg" src="http://localhost/active_supershop_v12_install/uploads/audio/home/captcha_incorrect.mp3"></audio>
+<audio style='display:none;' id='cart_empty' ><source type="audio/mpeg" src="http://localhost/active_supershop_v12_install/uploads/audio/home/cart_empty.mp3"></audio>
+<audio style='display:none;' id='cart_product_removed' ><source type="audio/mpeg" src="http://localhost/active_supershop_v12_install/uploads/audio/home/cart_product_removed.mp3"></audio>
+<audio style='display:none;' id='cart_shortage' ><source type="audio/mpeg" src="http://localhost/active_supershop_v12_install/uploads/audio/home/cart_shortage.mp3"></audio>
+<audio style='display:none;' id='form_submit_problem' ><source type="audio/mpeg" src="http://localhost/active_supershop_v12_install/uploads/audio/home/form_submit_problem.mp3"></audio>
+<audio style='display:none;' id='message_sent' ><source type="audio/mpeg" src="http://localhost/active_supershop_v12_install/uploads/audio/home/message_sent.mp3"></audio>
+<audio style='display:none;' id='profile_update_fail' ><source type="audio/mpeg" src="http://localhost/active_supershop_v12_install/uploads/audio/home/profile_update_fail.mp3"></audio>
+<audio style='display:none;' id='profile_update_success' ><source type="audio/mpeg" src="http://localhost/active_supershop_v12_install/uploads/audio/home/profile_update_success.mp3"></audio>
+<audio style='display:none;' id='successful_cart' ><source type="audio/mpeg" src="http://localhost/active_supershop_v12_install/uploads/audio/home/successful_cart.mp3"></audio>
+<audio style='display:none;' id='successful_login' ><source type="audio/mpeg" src="http://localhost/active_supershop_v12_install/uploads/audio/home/successful_login.mp3"></audio>
+<audio style='display:none;' id='successful_wish' ><source type="audio/mpeg" src="http://localhost/active_supershop_v12_install/uploads/audio/home/successful_wish.mp3"></audio>
+<audio style='display:none;' id='unsuccessful_login' ><source type="audio/mpeg" src="http://localhost/active_supershop_v12_install/uploads/audio/home/unsuccessful_login.mp3"></audio>
+<!--[if lt IE 9]>
+    <script src="http://localhost/active_supershop_v12_install/template/front/assets/plugins/respond.js"></script>
+    <script src="http://localhost/active_supershop_v12_install/template/front/assets/plugins/html5shiv.js"></script>
+    <script src="http://localhost/active_supershop_v12_install/template/front/assets/js/plugins/placeholder-IE-fixes.js"></script>
+<![endif]-->
+
+</body>
+</html> 

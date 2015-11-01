@@ -1,0 +1,94 @@
+a:2:{s:6:"expire";d:1440193379;s:7:"headers";a:6:{i:0;a:2:{i:0;s:15:"HTTP/1.0 200 OK";i:1;b:1;}i:1;a:2:{i:0;s:15:"HTTP/1.1 200 OK";i:1;b:1;}i:2;a:2:{i:0;s:44:"Last-Modified: Fri, 21 Aug 2015 21:42:56 GMT";i:1;b:1;}i:3;a:2:{i:0;s:50:"Cache-Control: no-store, no-cache, must-revalidate";i:1;b:1;}i:4;a:2:{i:0;s:40:"Cache-Control: post-check=0, pre-check=0";i:1;b:1;}i:5;a:2:{i:0;s:16:"Pragma: no-cache";i:1;b:1;}}}ENDCI---><?xml version="1.0" encoding="UTF-8" ?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://192.168.1.100/active_supershop_v1.2/</loc>
+        <priority>1.0</priority>
+    </url>
+ 
+    <!-- Your Sitemap -->
+    
+    <url>
+        <loc>http://192.168.1.100/active_supershop_v1.2/index.php/home/contact/</loc>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://192.168.1.100/active_supershop_v1.2/index.php/home/legal/terms_conditions</loc>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://192.168.1.100/active_supershop_v1.2/index.php/home/legal/privacy_policy</loc>
+        <priority>0.8</priority>
+    </url>
+        
+    <url>
+        <loc>http://192.168.1.100/active_supershop_v1.2/index.php/home/product_view/1/Demo-Product-1</loc>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>http://192.168.1.100/active_supershop_v1.2/index.php/home/product_view/2/Demo-Product-2</loc>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>http://192.168.1.100/active_supershop_v1.2/index.php/home/product_view/3/Demo-Product-3</loc>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>http://192.168.1.100/active_supershop_v1.2/index.php/home/product_view/4/Demo-Product-4</loc>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>http://192.168.1.100/active_supershop_v1.2/index.php/home/product_view/9/Quod-delectus-in-nisi-sed-dolor-quia-autem-error-voluptatum</loc>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>http://192.168.1.100/active_supershop_v1.2/index.php/home/product_view/10/Ea-distinctio-Eum</loc>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>http://192.168.1.100/active_supershop_v1.2/index.php/home/product_view/11/Obcaecati-eos-aute</loc>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>http://192.168.1.100/active_supershop_v1.2/index.php/home/product_view/17/Sunt-accusantium</loc>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>http://192.168.1.100/active_supershop_v1.2/index.php/home/product_view/18/Est-in-saepe</loc>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>http://192.168.1.100/active_supershop_v1.2/index.php/home/product_view/19/Quos-est-recusandae</loc>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>http://192.168.1.100/active_supershop_v1.2/index.php/home/product_view/20/dd</loc>
+        <priority>0.7</priority>
+    </url>
+            
+    <url>
+        <loc>http://192.168.1.100/active_supershop_v1.2/index.php/home/vendor/3/Tad-Murphy</loc>
+        <priority>0.5</priority>
+    </url>
+        
+    <url>
+        <loc>http://192.168.1.100/active_supershop_v1.2/index.php/home/vendor/8/Active-Super-Shop</loc>
+        <priority>0.5</priority>
+    </url>
+        
+    <url>
+        <loc>http://192.168.1.100/active_supershop_v1.2/index.php/home/vendor/9/john-doe</loc>
+        <priority>0.5</priority>
+    </url>
+     
+</urlset>

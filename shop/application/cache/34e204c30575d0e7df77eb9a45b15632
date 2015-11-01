@@ -1,0 +1,88 @@
+a:2:{s:6:"expire";i:1440169290;s:7:"headers";a:6:{i:0;a:2:{i:0;s:15:"HTTP/1.0 200 OK";i:1;b:1;}i:1;a:2:{i:0;s:15:"HTTP/1.1 200 OK";i:1;b:1;}i:2;a:2:{i:0;s:44:"Last-Modified: Fri, 21 Aug 2015 15:00:30 GMT";i:1;b:1;}i:3;a:2:{i:0;s:50:"Cache-Control: no-store, no-cache, must-revalidate";i:1;b:1;}i:4;a:2:{i:0;s:40:"Cache-Control: post-check=0, pre-check=0";i:1;b:1;}i:5;a:2:{i:0;s:16:"Pragma: no-cache";i:1;b:1;}}}ENDCI---><!DOCTYPE html>
+<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->  
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->  
+<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->  
+<head>
+	    <title>404 Not Found | Active Super Shop</title>
+
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+        <link rel="shortcut icon" href="http://localhost/active_supershop_v1.2/uploads/others/favicon.png">
+
+    <!-- CSS Global Compulsory -->
+    <link rel="stylesheet" href="http://localhost/active_supershop_v1.2/template/front/assets/plugins/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="http://localhost/active_supershop_v1.2/template/front/assets/css/style.css">
+
+    <!-- CSS Implementing Plugins -->
+    <link rel="stylesheet" href="http://localhost/active_supershop_v1.2/template/front/assets/plugins/line-icons/line-icons.css">
+    <link rel="stylesheet" href="http://localhost/active_supershop_v1.2/template/front/assets/plugins/font-awesome/css/font-awesome.min.css">
+
+    <!-- CSS Page Style -->    
+    <link rel="stylesheet" href="http://localhost/active_supershop_v1.2/template/front/assets/css/pages/page_error4_404.css">
+
+    <!-- CSS Theme -->    
+    <link rel="stylesheet" href="http://localhost/active_supershop_v1.2/template/front/assets/css/theme-colors/default.css">
+
+    <!-- CSS Customization -->
+    <link rel="stylesheet" href="http://localhost/active_supershop_v1.2/template/front/assets/css/custom.css">
+</head> 
+
+<body>
+
+    <!--=== Error V4 ===-->    
+    <div class="container content">
+        <!--Error Block-->
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <div class="error-v4">
+                   <a href="http://localhost/active_supershop_v1.2/"><img src="http://localhost/active_supershop_v1.2/uploads/logo_image/logo_16.png" alt=""></a>
+                    <h1>404</h1>
+                    <span class="sorry">Sorry, the page you were looking for could not be found!</span>
+                    <div class="row">
+                        <div class="col-md-6 col-md-offset-3">
+                            <a class="btn-u btn-brd btn-brd-hover rounded btn-u-vio btn-u-md" href="http://localhost/active_supershop_v1.2/index.php/home/"> Go Back to Main Page</a>
+                        </div> 
+                        <div class="col-md-6 col-md-offset-3">
+                        <p class="list-unstyled link-list" style="margin-top:60px;">2015 &copy; All Rights Reserved @ <a target="_blank" style="color:#000;" href="http://localhost/active_supershop_v1.2/">Active Super Shop</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div><!--/container-->
+    <!--End Error Block-->
+
+
+<!-- JS Global Compulsory -->           
+<script type="text/javascript" src="http://localhost/active_supershop_v1.2/template/front/assets/plugins/jquery/jquery.min.js"></script>
+<script type="text/javascript" src="http://localhost/active_supershop_v1.2/template/front/assets/plugins/jquery/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="http://localhost/active_supershop_v1.2/template/front/assets/plugins/bootstrap/js/bootstrap.min.js"></script> 
+<!-- JS Implementing Plugins -->           
+<script type="text/javascript" src="http://localhost/active_supershop_v1.2/template/front/assets/plugins/back-to-top.js"></script>
+<script type="text/javascript" src="http://localhost/active_supershop_v1.2/template/front/assets/plugins/backstretch/jquery.backstretch.min.js"></script>
+<script type="text/javascript">
+    $.backstretch([
+      "http://activeitzone.com/active_supershop/uploads/others/install.jpg"
+      ])
+</script>
+<!-- JS Customization -->
+<script type="text/javascript" src="http://localhost/active_supershop_v1.2/template/front/assets/js/custom.js"></script>
+<!-- JS Page Level -->           
+<script type="text/javascript" src="http://localhost/active_supershop_v1.2/template/front/assets/js/app.js"></script>
+<script type="text/javascript">
+    jQuery(document).ready(function() {
+        App.init();      
+    });
+</script>
+<!--[if lt IE 9]>
+    <script src="http://localhost/active_supershop_v1.2/template/front/assets/plugins/respond.js"></script>
+    <script src="http://localhost/active_supershop_v1.2/template/front/assets/plugins/html5shiv.js"></script>
+    <script src="http://localhost/active_supershop_v1.2/template/front/assets/js/plugins/placeholder-IE-fixes.js"></script>
+<![endif]-->
+
+</body>
+</html> 

@@ -1,0 +1,68 @@
+/*footer-bnw
+------------------------------------*/
+.footer-bnw .footer {
+	padding: 40px 0;
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ef4db6+0,f9b3e9+100 */
+background: #ef4db6; /* Old browsers */
+background: -moz-linear-gradient(top,  #ef4db6 0%, #f9b3e9 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ef4db6), color-stop(100%,#f9b3e9)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #ef4db6 0%,#f9b3e9 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #ef4db6 0%,#f9b3e9 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #ef4db6 0%,#f9b3e9 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #ef4db6 0%,#f9b3e9 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ef4db6', endColorstr='#f9b3e9',GradientType=0 ); /* IE6-9 */
+
+
+
+}
+
+.footer-bnw .footer p {
+	color: #1F1F21;
+	font-weight:300;
+}
+
+.footer-bnw .headline h2 {
+	color: #fff;
+}
+
+/*Footer Subsribe*/
+.footer-bnw .footer-subsribe {
+	width: 100%;
+}
+
+/*Link List*/
+.footer-bnw .link-list li {
+	border-top: solid 1px #fff;
+}
+
+.footer-bnw .link-list a {
+	color: #fff;
+	font-weight:300;
+}
+
+.footer-bnw address {
+	color: #fff;
+	line-height: 23px;
+}
+
+.footer-bnw address i {
+	min-width: 20px;
+	margin-right: 5px;
+	text-align: center;
+}
+
+/*Copyright*/
+.footer-bnw .copyright {
+	border-top: none;
+	background: #FF2CD6;
+	padding: 10px 0 2px;
+}
+
+.footer-bnw .copyright p {
+	color: #fff;
+	margin-bottom: 0;
+}
+.cards{
+color:#fff !important;
+font-size:25px !important;	
+}

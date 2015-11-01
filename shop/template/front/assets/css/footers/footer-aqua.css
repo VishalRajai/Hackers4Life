@@ -1,0 +1,67 @@
+/*footer-aqua
+------------------------------------*/
+.footer-aqua .footer {
+	padding: 40px 0;
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#5bcaff+0,55efcb+100 */
+background: #5bcaff; /* Old browsers */
+background: -moz-linear-gradient(top,  #5bcaff 0%, #55efcb 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#5bcaff), color-stop(100%,#55efcb)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #5bcaff 0%,#55efcb 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #5bcaff 0%,#55efcb 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #5bcaff 0%,#55efcb 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #5bcaff 0%,#55efcb 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5bcaff', endColorstr='#55efcb',GradientType=0 ); /* IE6-9 */
+
+
+}
+
+.footer-aqua .footer p {
+	color: #fff;
+	font-weight:300;
+}
+
+.footer-aqua .headline h2 {
+	color: #fff;
+}
+
+/*Footer Subsribe*/
+.footer-aqua .footer-subsribe {
+	width: 100%;
+}
+
+/*Link List*/
+.footer-aqua .link-list li {
+	border-top: solid 1px #eee;
+}
+
+.footer-aqua .link-list a {
+	color: #fff;
+	font-weight:300;
+}
+
+.footer-aqua address {
+	color: #fff;
+	line-height: 23px;
+}
+
+.footer-aqua address i {
+	min-width: 20px;
+	margin-right: 5px;
+	text-align: center;
+}
+
+/*Copyright*/
+.footer-aqua .copyright {
+	border-top: none;
+	background: #00AE9A;
+	padding: 10px 0 2px;
+}
+
+.footer-aqua .copyright p {
+	color: #fff;
+	margin-bottom: 0;
+}
+.cards{
+color:#fff !important;
+font-size:25px !important;	
+}

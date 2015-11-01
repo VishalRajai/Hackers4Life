@@ -1,0 +1,51 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,300italic,100,400italic,700,900);
+/*Wrapping element for Sticky-Footer*/
+html {
+  	min-height: 100%;
+  	position: relative;
+}
+body {
+  	/* Margin bottom by footer height */
+  	margin-bottom: 60px;
+}
+
+/*404 Error Page V4
+------------------------------------*/
+.error-v4 {
+	padding-top: 30px;
+	text-align: center;	
+}
+
+.error-v4 img {
+	margin-bottom: 20px;
+}
+
+.error-v4 h1 {
+	color: #7B50E2;
+	font-size: 200px;
+	line-height: 260px;
+	font-weight:300 !important;
+}
+
+.error-v4 span.sorry {
+	color: #AE00E8;
+	display: block;
+	font-size: 20px;
+	padding-bottom: 40px;
+}
+
+/*Sticky-Footer
+------------------------------------*/
+.sticky-footer {
+  	position: absolute;
+  	bottom: 0;
+  	width: 100%;
+  	padding: 20px;
+  	/* Set the fixed height of the footer here */
+  	height: 60px;
+}
+
+.sticky-footer .copyright-space {
+	color: #eee;
+	text-align: center;
+}

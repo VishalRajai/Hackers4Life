@@ -1,0 +1,33 @@
+/*	
+ *	Developed by: Active IT zone
+ *	Date	: 14 July, 2015
+ *	Active Supershop eCommerce CMS
+ *	http://codecanyon.net/user/activeitezone
+ */
+
+
+/*Import Global Compulsory CSS Files*/
+@import url(app.css);
+@import url(ie8.css);
+@import url(blocks.css);
+@import url(plugins.css);
+
+/*Import CSS Plugins*/
+@import url(plugins/animate.css);
+@import url(plugins/box-shadows.css);
+
+/*Import Headers*/
+@import url(headers/header-purple.css);
+@import url(headers/header-blue.css);
+@import url(headers/header-green.css);
+@import url(headers/header-grey.css);
+@import url(headers/header-aqua.css);
+@import url(headers/header-pink.css);
+
+/*Import Footers*/
+@import url(footers/footer-purple.css);
+@import url(footers/footer-blue.css);
+@import url(footers/footer-green.css);
+@import url(footers/footer-grey.css);
+@import url(footers/footer-aqua.css);
+@import url(footers/footer-pink.css);

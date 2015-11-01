@@ -1,0 +1,59 @@
+/*footer-grey
+------------------------------------*/
+.footer-grey .footer {
+	padding: 40px 0;
+	background: #C7C7CC;
+
+
+}
+
+.footer-grey .footer p {
+	color: #fff;
+	font-weight:300;
+}
+
+.footer-grey .headline h2 {
+	color: #fff;
+}
+
+/*Footer Subsribe*/
+.footer-grey .footer-subsribe {
+	width: 100%;
+}
+
+/*Link List*/
+.footer-grey .link-list li {
+	border-top: solid 1px #eee;
+}
+
+.footer-grey .link-list a {
+	color: #fff;
+	font-weight:300;
+}
+
+.footer-grey address {
+	color: #fff;
+	line-height: 23px;
+}
+
+.footer-grey address i {
+	min-width: 20px;
+	margin-right: 5px;
+	text-align: center;
+}
+
+/*Copyright*/
+.footer-grey .copyright {
+	border-top: none;
+	background: #65666B;
+	padding: 10px 0 2px;
+}
+
+.footer-grey .copyright p {
+	color: #fff;
+	margin-bottom: 0;
+}
+.cards{
+color:#fff !important;
+font-size:25px !important;	
+}
